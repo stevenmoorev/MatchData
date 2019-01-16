@@ -1,0 +1,382 @@
+
+RANKING : OFFICIAL - 2013/2014
+fie
+Event : J
+
+Weapon : F
+
+Gender : F
+
+10.11.13 Luxembourg (A)	16.11.13 Bratislava (A)	30.11.13 Bochum (A)	14.12.13 Leszno (A)	18.01.14 Zagreb (A)	01.02.14 Lyon (A)	15.02.14 Budapest (A)	25.02.14 Guatemala (CHZ)	01.03.14 Jerusalem (CHZ)	03.03.14 Le Caire (CHZ)	12.03.14 Amman (CHZ)	16.03.14 Belgrade (A)	06.04.14 Plovdiv (CHM)	Total
+1	MANCINI Camilla	ITA		4.00	32.00		26.00	14.00	32.00		30.00				35.00	173.00
+2	ALEXEEVA Viktoria	RUS	8.00	20.00	4.00		32.00		26.00		21.00				35.00	146.00
+3	RANVIER Pauline	FRA	4.00	8.00	26.00		14.00	32.00			21.00				35.00	140.00
+4	TRIPAPINA Svetlana	RUS	2.00	14.00	2.00		8.00		14.00		48.00				50.00	138.00
+5	HARVEY Eleanor	CAN				4.00	14.00			21.00					65.00	104.00
+6	CIPRESSA Erica	ITA		8.00	0.00		2.00	26.00	4.00		39.00				20.00	99.00
+7	PALUMBO Francesca	ITA		26.00	20.00		2.00	14.00	20.00		6.00				10.00	98.00
+8	SZYMCZAK Anna	POL	4.00	4.00	0.00	32.00			8.00		12.00				35.00	95.00
+9	MPAH-NJANGA Jeromine	FRA	20.00	8.00			20.00	20.00			12.00				5.00	85.00
+10	ALBOROVA Yana	RUS	32.00	4.00	4.00		14.00		4.00		6.00				20.00	84.00
+11	KIEFER Lee	USA													80.00	80.00
+12	MIYAWAKI Karin	JPN		4.00				4.00	20.00						50.00	78.00
+13	BOLDOR Maria	ROU		2.00	8.00		4.00		4.00		30.00			14.00	10.00	72.00
+14	MIENVILLE Julie	FRA	8.00		20.00		4.00	8.00			21.00				10.00	71.00
+15	GOLDIE Alanna	CAN		2.00		8.00				48.00					10.00	68.00
+16	SAMSONOVA Kristina	RUS	26.00	14.00	2.00		8.00		4.00		12.00					66.00
+17	JUBENOT Chloe	FRA	20.00	20.00	2.00		8.00	2.00			12.00					64.00
+18	DUBROVICH Jacqueline	USA		32.00				20.00							10.00	62.00
+19	DLUGOSZ Martyna	POL		4.00	8.00	14.00			2.00		12.00				20.00	60.00
+20	CAI Yuanting	CHN											48.00		10.00	58.00
+21	CENKER Freya	AUT	4.00	(2.00)	4.00	14.00	4.00	2.00	(0.00)		6.00			14.00	10.00	58.00
+22	ZAMBO-GOLYA Fruzsina	HUN	2.00	2.00	2.00		20.00		14.00		12.00				5.00	57.00
+23	YANAOKA Haruka	JPN		8.00				2.00	4.00				30.00		10.00	54.00
+24	SZALAI Szonja	HUN	14.00	0.00	8.00		4.00	4.00	8.00		6.00				10.00	54.00
+25	ITO Maki	JPN						8.00	4.00				21.00		20.00	53.00
+26	GOLEBIOWSKA Natalia	POL	8.00	4.00	8.00	8.00			2.00		12.00				10.00	52.00
+27	RIVANO Camilla	ITA		2.00	8.00		4.00	4.00	0.00					32.00		50.00
+28	HERNANDEZ Aidee	MEX				4.00	0.00		2.00	39.00				4.00	0.00	49.00
+29	ELSHARKAWY Yara	EGY							0.00			48.00			0.00	48.00
+30	KNAUER Tamina	GER	8.00	8.00	4.00				2.00		6.00				20.00	48.00
+31	BIAGIOTTI Matilde	ITA		0.00	4.00		2.00	4.00	14.00		21.00					45.00
+32	MOHAMED Noura	EGY			0.00				0.00			39.00			5.00	44.00
+33	CELLEROVA Michala	SVK	4.00	(2.00)	4.00	8.00	4.00	4.00	4.00		6.00				10.00	44.00
+34	REBOLLEDO Melissa	MEX				4.00	0.00		2.00	12.00				20.00	5.00	43.00
+35	CALUGAREANU Malina	ROU		4.00	4.00		8.00		2.00		6.00			8.00	10.00	42.00
+36	HUANG Ali	CHN											21.00		20.00	41.00
+37	XIONG Xueying	CHN											39.00			39.00
+38	MEZA OCEGUERA Victoria Maria Isabel	MEX							0.00	30.00				4.00	5.00	39.00
+39	BIANCHIN Elisabetta	ITA	14.00	2.00	2.00		14.00	4.00	2.00							38.00
+40	WASFY Noha	EGY							2.00			30.00			5.00	37.00
+41	BEHR Leandra	GER	4.00	4.00	14.00				4.00		6.00				5.00	37.00
+42	PETROVA Ekaterina	RUS	14.00	8.00	2.00		4.00		8.00							36.00
+43	CECCHINI Gabriela	BRA				8.00			2.00	21.00					5.00	36.00
+44	ONDARTS Lucia	ARG								30.00					5.00	35.00
+45	MOOR Valentina	GER	14.00	0.00	2.00			4.00	4.00		6.00				5.00	35.00
+46	SULIK Sandra	POL		4.00	4.00	26.00			0.00							34.00
+47	MARTYANOVA Marta	RUS							14.00					20.00		34.00
+48	CHRZANOWSKA Marika	POL		2.00	4.00	20.00			2.00		6.00					34.00
+49	MASSIALAS Sabrina	USA		14.00	14.00										5.00	33.00
+50	RAPYNETS Alina	UKR				20.00			4.00		3.00				5.00	32.00
+51	ROUAS Maud	FRA	4.00	8.00	8.00		4.00	8.00								32.00
+52	FIHOSY Ayesha	GBR	2.00			2.00	4.00	8.00			6.00				10.00	32.00
+53	LEBRUN Violette	BEL	2.00	(0.00)	4.00		2.00	2.00	2.00		6.00			4.00	10.00	32.00
+54	ZERABIB Khadidja	ALG										30.00			0.00	30.00
+55	CHEN Qingyuan	CHN											30.00			30.00
+56	TANGHERLINI Elena	ITA		2.00	14.00		4.00	8.00	2.00							30.00
+57	EBERT Leonie	GER	4.00	2.00	2.00			2.00	8.00		12.00					30.00
+58	CHRZANOWSKA Julia	POL		4.00	2.00	14.00			8.00							28.00
+59	TAFFEL Sara	USA		14.00				14.00								28.00
+60	RAPYNETS Krystina	UKR				14.00					3.00				10.00	27.00
+61	KONTOCHRISTOPOULOU Aikaterini-Maria	GRE		2.00		2.00		4.00						14.00	5.00	27.00
+62	MESTERI Viktoria	HUN	4.00	2.00	4.00		4.00		2.00		6.00				5.00	27.00
+63	MELNIKOVA Maria	RUS												26.00		26.00
+64	CHENG Hiu Wai Valerie	HKG											21.00		5.00	26.00
+65	RANCUREL Maeva	FRA	4.00	0.00	4.00		8.00	8.00	2.00							26.00
+66	KRYTSYNA Aliaksandra	BLR		2.00	2.00	4.00			2.00		6.00				10.00	26.00
+67	MARTINES HAUREGI Oksana	RUS	2.00	2.00	8.00		4.00		8.00							24.00
+68	DICKSON Chloe	GBR	8.00			4.00	2.00	2.00	0.00		3.00				5.00	24.00
+69	ARNAO Lorena	PER		0.00	0.00		2.00			21.00					0.00	23.00
+70	BITTEROVA Kitti	SVK		0.00		2.00	2.00				6.00			8.00	5.00	23.00
+71	GOLOSEEVA Tatiana	RUS	8.00	2.00			8.00		4.00							22.00
+72	ARDENTOVA Natalya	RUS	4.00	4.00	2.00		8.00		4.00							22.00
+73	BORELLA Claudia	ITA		4.00	2.00		4.00	4.00	8.00							22.00
+74	ADJABI Feriel	ALG										21.00				21.00
+75	MENDOZA Geiglys	VEN								21.00						21.00
+75	PANGILINAN Keren	PHI											21.00			21.00
+77	BERTHIER Aarya	SGP		2.00	2.00								12.00		5.00	21.00
+78	MCELWEE Mary Mw	USA		2.00	14.00			4.00								20.00
+79	HUANG Jiaxin	CHN													20.00	20.00
+80	WALCZYK Julia	POL		2.00	8.00	8.00			2.00							20.00
+81	KIRSCHBAUM Viviane	GER	4.00	2.00	2.00			8.00	4.00							20.00
+82	SHAITO Mona	LBN													20.00	20.00
+83	GU Jerrica	CAN					2.00			12.00					5.00	19.00
+84	WONG Nicole Mae Hui Shan	SGP		0.00	2.00								12.00		5.00	19.00
+85	BLOW Iman	USA			4.00			14.00								18.00
+86	CAMOZZATO Nicole	BRA				0.00				12.00					5.00	17.00
+87	STAN Isabelle	ROU		0.00					8.00		0.00			4.00	5.00	17.00
+88	CHART Yvonne	GBR	0.00			8.00	2.00	2.00			0.00				5.00	17.00
+89	SANADA Rena	JPN		2.00				2.00	0.00				12.00			16.00
+90	CORREA Celia	MEX				4.00	0.00		0.00	12.00						16.00
+91	TCHOUKOUNTE Madina	FRA	8.00	0.00	2.00		2.00	4.00								16.00
+92	ARU Maria	ITA												14.00		14.00
+93	MURAVYEVA Anastasiya	USA						2.00		12.00						14.00
+94	SPANGER-RIES Martine	DEN							0.00		0.00			8.00	5.00	13.00
+95	ROSSA Veronica	ITA				4.00								8.00		12.00
+96	LEE Thalia Ping	SGP											12.00			12.00
+97	ABE Natsuho	JPN		0.00									12.00			12.00
+98	CHEUNG Kimberley Vanessa	HKG											12.00			12.00
+99	DZAKHOVA Marianna	RUS	8.00	2.00	2.00											12.00
+100	TSAI Xiao-Qing	TPE								12.00						12.00
+101	BILODEAU Ariane	CAN					0.00			12.00						12.00
+102	TINIO Justine Gail	PHI											12.00			12.00
+103	LACHMAN Katarzyna	POL	2.00	0.00	2.00	8.00			0.00							12.00
+104	CHEN Ling Yi	TPE							0.00				12.00		0.00	12.00
+105	LOPEZ Ana Luisa	GUA								12.00					0.00	12.00
+106	BARTL Thekla	GER	4.00	0.00	2.00			4.00	2.00							12.00
+107	BLANC Lise	FRA	4.00	0.00	0.00			4.00	4.00							12.00
+108	NEBIERIDZE Evgenia	RUS	4.00	2.00	4.00		2.00									12.00
+109	BARTHOLME Rahel	GER	0.00	0.00	4.00	4.00		2.00	2.00							12.00
+110	DINI Eleonora	ITA		2.00	4.00		2.00	4.00								12.00
+111	GOGLIDZE Teona	GEO	2.00	2.00							3.00				5.00	12.00
+112	DAMASCHIN Corina	ROU		0.00	0.00		2.00		2.00		3.00			4.00		11.00
+113	ESPINOZA ROQUEZ Sofia Lara	ARG							0.00	6.00					5.00	11.00
+114	LAU Cheuk Yu	HKG											6.00		5.00	11.00
+115	PASZTOR Flora	HUN		4.00	2.00		2.00				3.00					11.00
+116	PACELLI Maria Teresa	ITA		0.00	0.00			2.00						8.00		10.00
+117	ARGENTI Beatrice	ITA		0.00	2.00		8.00		0.00							10.00
+118	VETULANI Maria	POL		0.00	0.00	8.00			2.00							10.00
+119	SMITH Katie	GBR	2.00			4.00	2.00	2.00			0.00					10.00
+120	BALOGH Orsolya	HUN	2.00	2.00	0.00		2.00		4.00							10.00
+121	KANO Minami	JPN		2.00			2.00	4.00	2.00							10.00
+122	HAMMERS Maike	GER			2.00	4.00		4.00								10.00
+123	SHYPILOVA Olena	UKR		2.00		4.00	4.00		0.00		0.00				0.00	10.00
+124	LOSSO Anna Chiara	ITA												8.00		8.00
+125	WERNER Sophia	GER						8.00	0.00							8.00
+126	DE ZOLT Letizia	ITA												8.00		8.00
+127	LU Margaret	USA		8.00												8.00
+128	SCHIAVONE Cecilia	ITA					0.00							8.00		8.00
+129	LEE Michelle	USA						2.00		6.00						8.00
+130	CASTANIE Rozene	FRA					4.00	2.00	2.00							8.00
+131	KORENY Ajna	HUN	2.00	0.00			4.00		2.00							8.00
+132	MAREY Julie	FRA	4.00	0.00	0.00		2.00	2.00								8.00
+133	KLYASHTORNA Anastasiya	UKR				4.00			4.00		0.00					8.00
+134	KIRSCHEN Kim	GER	2.00	2.00	0.00			2.00	2.00							8.00
+135	KING Leah	GBR	2.00			2.00	2.00	2.00								8.00
+136	LAURIA Greta	ITA		2.00	0.00									4.00		6.00
+137	MEDINA LEAL Maria Paula	COL								6.00						6.00
+137	CHENG Hsin	TPE											6.00			6.00
+139	SILVA Micaela Sofia	ARG								6.00						6.00
+139	LUK Hoi Ching Elka	HKG											6.00			6.00
+141	CZAJKA Weronika	POL		2.00	0.00	4.00										6.00
+142	LAU Ysien	SGP		0.00									6.00			6.00
+143	AHUMADA Barbara	CHI								6.00						6.00
+144	ABOU JAOUDEH Rita	LBN											6.00		0.00	6.00
+145	TOLDO Ana	BRA								6.00						6.00
+146	MOHSENI Motahareh	IRI											6.00			6.00
+147	MORTAZAVI Sarvenaz	IRI											6.00			6.00
+148	SERNA Micaela	URU								6.00						6.00
+148	LOZADA Wilhelmina	PHI											6.00			6.00
+150	SEIDAKHMETOVA Kuralay	KAZ							0.00				6.00		0.00	6.00
+151	GONZALEZ CIAVARELLA Athina	ARG								6.00						6.00
+152	ALIKHOJAYEVA Dana	KAZ							0.00				6.00			6.00
+153	GIL Maria	VEN								6.00						6.00
+154	CONTRERAS VERA Gemesis Del Carmen	VEN								6.00						6.00
+154	YANG Chin Man	TPE											6.00			6.00
+156	KRALIKOVA Viktoria	SVK		0.00		2.00	0.00		0.00					4.00		6.00
+157	GARIFULINA Regina	RUS	2.00	4.00												6.00
+158	OLIVERA Valentina	URU								6.00						6.00
+158	VALLE ARANA Alejandra Guadalupe	ESA								6.00						6.00
+160	GHAHREMANY Elaheh	IRI											6.00			6.00
+161	GRIMAN Maria	VEN								6.00						6.00
+162	DESCHNER Stefani	USA		4.00	0.00			2.00								6.00
+163	CATALAN Ruth	GUA								6.00						6.00
+164	PINEDA VALENCIA Juliana	COL								6.00						6.00
+165	ORAVETZ Barbara	HUN	4.00	0.00	0.00				2.00							6.00
+166	CRESPIN NAVARRO Rosaura Guadalupe	ESA								6.00						6.00
+166	NEHAISI Hilit	ISR									6.00					6.00
+168	ZUROWSKA Beata	POL		0.00	2.00	2.00			2.00							6.00
+169	HOHENADEL Leilani	GER	2.00	0.00	2.00			2.00								6.00
+170	PAPP Petra	HUN	2.00	0.00			2.00		2.00							6.00
+171	KINZEL Jessica	GER	2.00	0.00	2.00			2.00								6.00
+172	PROVODNIKOVA Kristina	KAZ											0.00		5.00	5.00
+173	KIM Hyeji	KOR													5.00	5.00
+174	LAWTON Josefina	DEN	0.00		0.00	2.00	0.00				3.00				0.00	5.00
+175	KIM Hyunjin	KOR													5.00	5.00
+176	WONG Liane Ye Ying	SGP													5.00	5.00
+177	SONG A Young	KOR													5.00	5.00
+178	ABDRAKHMANOVA Adelya	RUS												4.00		4.00
+179	GUERRA Francesca	ITA				4.00										4.00
+180	FRACKOWIAK Aleksandra	POL				4.00			0.00							4.00
+181	BOLDOR Ana	ROU		0.00					0.00					4.00		4.00
+182	RADIC Nevena	SRB												4.00		4.00
+183	PIRKOVA Rita	SVK		0.00			0.00							4.00		4.00
+184	VARGA Anett	ROU		0.00										4.00		4.00
+185	ZIBETTI Rebecca	ITA												4.00		4.00
+186	CASILLAS Lydia	MEX					0.00		0.00					4.00		4.00
+187	POPKIN Naomi	USA		4.00												4.00
+188	WALTHER Lea-Margarete	GER				4.00										4.00
+189	DUCHESNE Marie	FRA					2.00	2.00								4.00
+190	BEHR Greta	GER	2.00	0.00	2.00				0.00							4.00
+191	FATKULLINA Alina	RUS	2.00	2.00												4.00
+192	GUILLAUME Meredith	FRA					2.00	2.00	0.00							4.00
+193	KRAENKL Maria	AUT	2.00	0.00	0.00	0.00	2.00		0.00							4.00
+194	BICEGO Lodovica	ITA						2.00	2.00							4.00
+195	POSER Antonia	GER			2.00				2.00							4.00
+196	LOFMARK Linn	SWE		0.00			2.00	2.00			0.00					4.00
+197	ROLDAN Cynthia	PER								3.00						3.00
+198	PEREIRA Carolina	PAR								3.00					0.00	3.00
+199	REYES SANCHEZ Vanessa Esmeralda	ESA								3.00						3.00
+200	VARGAS LEON Carolina Maria	COL								3.00						3.00
+201	SCHREIBER Ester	SWE									3.00					3.00
+202	DVORKIN Mary	ISR									3.00					3.00
+203	HANINA Noa	ISR					0.00				3.00				0.00	3.00
+204	FRACKOWIAK Adrianna	POL		0.00	0.00	2.00			0.00							2.00
+205	STRACHOWSKA Julia	POL				2.00										2.00
+206	PRZYBYLOWICZ Martyna	POL	0.00			2.00										2.00
+207	KARDASH Valentyna	UKR		0.00		2.00										2.00
+208	CRASTES Marie France	FRA						2.00	0.00							2.00
+209	TRANQUILLI Chiara	ITA						2.00								2.00
+210	WASILEWSKA Barbara	POL				2.00										2.00
+211	HENDERSON-SEMEL Liana	NZL			0.00			2.00								2.00
+212	LENCHYK Anastasiya	UKR		0.00		2.00										2.00
+213	WAGENHALS Fabia	GER			2.00											2.00
+213	POZZAN Caterina	ITA					2.00									2.00
+215	GENTILHOME Manon	FRA	2.00	0.00				0.00								2.00
+216	PARTRIDGE Morgan	USA		0.00	2.00											2.00
+217	DYNKO Anastasiya	UKR		0.00		2.00			0.00							2.00
+218	KULIAYEVA Lizaveta	BLR		0.00		2.00										2.00
+219	MALQUORI Eleonora	ITA				2.00										2.00
+220	ALPATOV Avigail	ISR					2.00				0.00					2.00
+221	TOMCZAK Renata	POL	0.00			2.00										2.00
+222	HAJDU Melinda	HUN	2.00	0.00	0.00											2.00
+223	LAVA Federica	ITA							2.00							2.00
+224	PAUL Celine	FRA	2.00	0.00												2.00
+225	WIADEREK Alicja	POL				2.00										2.00
+226	HAVRANKOVA Eva	CZE	2.00	0.00	0.00	0.00			0.00						0.00	2.00
+227	BEARDMORE Kate	GBR				2.00	0.00									2.00
+228	BRAUN Julia	GER	2.00		0.00			0.00								2.00
+229	KLYCE Eliza	USA		2.00	0.00											2.00
+230	KONDRICZ Kata	HUN		0.00			2.00									2.00
+231	SCHMIDT Ann-Katrin	GER				2.00										2.00
+232	BUTRUILLE Solene	FRA					2.00	0.00								2.00
+233	KEYS Olivia	GBR	0.00			0.00	2.00	0.00								2.00
+234	RODRIGUEZ MENENDEZ Judith	ESP	2.00		0.00						0.00				0.00	2.00
+235	ELMOHAMADY Hams	EGY						2.00								2.00
+235	DRAPELLA Magdalena	POL				2.00										2.00
+237	NORTHROP Kate	USA		0.00	2.00											2.00
+238	HUZENKA Darya	BLR				2.00										2.00
+239	SHAPOVALOVA Yulianna	UKR		0.00			2.00		0.00							2.00
+240	BLUM Oceane	FRA	2.00	0.00												2.00
+241	FITTON Alexandra	GBR				0.00	2.00	0.00								2.00
+242	PASZTOR Sarolta	HUN	2.00	0.00			0.00		0.00							2.00
+243	SZOSTAKIEWICZ Joanna	POL				2.00										2.00
+244	PEDOSENKO Marta	UKR		0.00		2.00										2.00
+245	MATUSZEWSKA Michalina	POL	2.00			0.00										2.00
+246	MUELLER Lena	GER			2.00	0.00										2.00
+247	MUELLER Sabrina	GER			0.00			2.00	0.00							2.00
+248	ROSSINI Serena	ITA							2.00							2.00
+249	SORIANO Marie	FRA						2.00	0.00							2.00
+250	OGATA Minami	JPN		0.00				2.00	0.00							2.00
+251	TRIPPOLT Ann- Kathrin	AUT			0.00		2.00									2.00
+252	CHIN Taylor	USA			2.00											2.00
+253	ZAKARANI Youssra	MAR			0.00			2.00								2.00
+254	NISHIOKA Maho	JPN							2.00							2.00
+255	SHEEBA Farah	EGY			0.00				0.00			0.00				0.00
+256	ROUIBET Amira	ALG										0.00				0.00
+257	ATHAMNEH Ruba	JOR											0.00			0.00
+258	KARIMOVA Karolina	KAZ							0.00				0.00			0.00
+259	KOVACEVIC Marija	SRB		0.00	0.00									0.00		0.00
+260	JAMALUDIN Anis Syaqireen	MAS											0.00			0.00
+261	VIRGA Laura	ROU		0.00					0.00					0.00		0.00
+262	OMAR Slena	JOR											0.00			0.00
+263	CHEAH Ivy Hsiao Yong	MAS											0.00			0.00
+263	LI Lea Ming	CRO												0.00		0.00
+265	ZOVKO Sara	CRO		0.00			0.00		0.00					0.00		0.00
+266	JENY Renata	CRO					0.00							0.00		0.00
+267	HABBOUB Rahaf	JOR											0.00			0.00
+267	TAWIL Ftoon	JOR											0.00			0.00
+269	BRANKOVIC Ljubica	SRB		0.00	0.00									0.00		0.00
+270	OLIVERA Catalina	URU								0.00					0.00	0.00
+271	PELEKSIC Nadja	SRB												0.00		0.00
+272	KVADRANTI Korina	CRO	0.00	0.00			0.00		0.00					0.00		0.00
+273	ORTIZ Camila	ECU								0.00						0.00
+274	PISTOIA Mariana	BRA								0.00					0.00	0.00
+275	MCGOFF Sofia	PUR								0.00						0.00
+276	PADUA Gabriela Del C.	PUR								0.00						0.00
+277	SANCHEZ RAFAEL Rebeca Sarai	ESA								0.00						0.00
+278	LENCBERGA Elza	LAT	0.00								0.00					0.00
+279	HERRERA Sara	GUA								0.00						0.00
+280	GARCIA BRITO Edith Del Carmen	DOM								0.00						0.00
+281	MORENO VALIENTE Daylen Cristina	CUB								0.00						0.00
+281	SERRANO Alinson	NCA								0.00						0.00
+283	CIMIOTTI Carlotta	SUI						0.00			0.00					0.00
+284	GILLJAM Patricia	SWE									0.00					0.00
+285	MARTIN Lorna	GBR	0.00				0.00	0.00								0.00
+286	DUXBURY Victoria	IRL		0.00		0.00	0.00		0.00							0.00
+287	RENTIER Eline	NED	0.00													0.00
+287	HAUPT Anne	GER				0.00										0.00
+289	BOYKO Natalia	UKR		0.00		0.00										0.00
+290	MIETKA Barbara	POL				0.00										0.00
+290	ZELECHOWSKA Sara	POL	0.00													0.00
+290	DIAZ Maria Teresa	ESP					0.00									0.00
+293	KAHOOKELE Stefani	USA			0.00			0.00								0.00
+294	ROI Veronika	UKR		0.00			0.00		0.00							0.00
+295	HENDRICHOVA Sabina	CZE		0.00		0.00										0.00
+296	SOLACHER Anna-Clara	AUT	0.00	0.00												0.00
+297	OPOLSKA Maja	POL				0.00										0.00
+297	YAN Ho Ching	HKG													0.00	0.00
+299	SHIGIHARA Jule	GER		0.00	0.00											0.00
+300	FERNANDEZ Elia	SUI	0.00		0.00		0.00	0.00	0.00							0.00
+301	DYSON Rosa	AUS						0.00	0.00							0.00
+302	ZUPKO Klaudia	HUN							0.00							0.00
+303	OKABE Mai	JPN		0.00				0.00	0.00							0.00
+304	REMESOVA Klara	CZE	0.00	0.00		0.00			0.00						0.00	0.00
+305	SZYMANSKA Joanna	POL				0.00										0.00
+305	MILLEPIED Honorine	FRA						0.00								0.00
+305	TSUKHISHVILI Mariami	GEO													0.00	0.00
+308	WOJTALUK Julia	POL				0.00										0.00
+308	MANGA Alexia	FRA						0.00								0.00
+310	BUDOFSKY Kaila	USA						0.00								0.00
+311	TSIMBOLYNETS Anhelina	UKR					0.00		0.00							0.00
+312	ZENOBI Rachele	ITA				0.00										0.00
+312	PAK Sarah	USA						0.00								0.00
+314	ZANEUSKAYA Hanna	BLR		0.00		0.00										0.00
+315	VALERO-COLLANTES Cristina	SWE					0.00	0.00								0.00
+316	BROUQUIER Constance	FRA			0.00				0.00							0.00
+317	DHAEYER Carlotta	BEL	0.00		0.00											0.00
+318	MATRASZEK Veronika Viktorie	CZE				0.00										0.00
+318	JEGU Emilie	FRA						0.00								0.00
+320	UMETSU Haruka	JPN						0.00								0.00
+320	KWAG Alicia Ji Yeon	AUS													0.00	0.00
+320	DMOCHOWSKA Isabella	GBR				0.00										0.00
+323	ZABALA Irene	ESP	0.00				0.00									0.00
+324	HAY Beatrice	AUS													0.00	0.00
+324	HULTEEN Marie	GER			0.00											0.00
+326	BABII Alexandra	MDA		0.00											0.00	0.00
+327	LAWRENCE Mackenzie	USA						0.00								0.00
+327	CZAJKA Justyna	POL				0.00										0.00
+329	SPEICHER Julia	AUT		0.00			0.00									0.00
+330	BRETEAU Andrea	ESP					0.00									0.00
+330	ALGUERO Helena	ESP						0.00								0.00
+332	HOGSTROM Hanna	SWE		0.00			0.00	0.00								0.00
+333	BARRATT Georgina	AUS													0.00	0.00
+334	HERBERGER Aniko	SVK		0.00												0.00
+335	BANJAC Anamarija	CRO					0.00									0.00
+335	GREIFFER Luise	GER			0.00											0.00
+335	SUMMUGAM Daevina	MAS													0.00	0.00
+338	LAFFEY Jessie	USA		0.00	0.00											0.00
+339	PRETORIUS Isabel	RSA													0.00	0.00
+340	PAVLIUK Daria	UKR		0.00												0.00
+340	CHANG Jie	TPE													0.00	0.00
+342	SOGOYAN Ines	BUL													0.00	0.00
+343	SHAITO Malak	LBN							0.00							0.00
+344	PINO Mariana	BOL													0.00	0.00
+345	NAIDENOVA Monika	BUL													0.00	0.00
+346	DAYCHEVA Maria	BUL													0.00	0.00
+347	TROCCAZ Meline	FRA			0.00											0.00
+347	KARKI Tara	IND													0.00	0.00
+349	VIQUEIRA Samantha	USA			0.00											0.00
+350	YASSER Aida	EGY			0.00				0.00							0.00
+351	FRACKENPOHL Helena	GER			0.00											0.00
+351	EGYUD Luca	HUN		0.00												0.00
+353	BERNAT Viktoria	HUN							0.00							0.00
+354	MAGYAR Petra	ROU		0.00					0.00							0.00
+355	SPLIT Marcella	NED			0.00											0.00
+356	HONG Stephanie Shi Qi	SGP			0.00											0.00
+357	ELFADLY Zeinab	EGY			0.00											0.00
+357	KINZEL Josefin	GER			0.00											0.00
+359	WASFY Mahitab	EGY							0.00							0.00
+360	SOMODI Anita	HUN							0.00							0.00
+361	POW Shu Shan	SGP			0.00											0.00
+362	KUDLACEK Beatrice	AUT							0.00							0.00
+363	TOKOLA Helea	FIN							0.00							0.00
+364	ERBIL Elif	TUR		0.00					0.00							0.00
+365	LALEZARIAN Amanda	SWE		0.00												0.00
+366	ASANO Saki	JPN		0.00												0.00
+367	VILLASEÑOR Nora Elena	MEX							0.00							0.00
+368	DOGANAY Simay	TUR		0.00												0.00
+369	USLULAR Beril	TUR		0.00												0.00
+370	INAL Merve Gül	TUR		0.00												0.00
+The points between parenthesis were not taken into account for the ranking 
+09.01.2019
