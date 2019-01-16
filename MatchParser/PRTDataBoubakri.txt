@@ -2,7 +2,7 @@
 FENCER NAME: BOUBAKRI Ines
 DATE OF BIRTH: 1988-12-28
 AGE: 30
-RANKING: 4
+RANKING: 22
 NUMBER OF VICTORIES: 314
 PERCENTAGE OF VICTORIES: 73%
 NUMBER OF TOUCHES SCORED: 4249
@@ -11,136 +11,193 @@ FIRST RESULT FROM AGE: 18
 ----- PRT STATISTICS -----
 AT AGE 18, BOUBAKRI Ines fenced 23 junior matches.
 19 of those were victories. That's a victory percentage of 82%
-0 of those matches were against top 5.
-6 of those matches were against top 16, and they won 4 times. That's a win percentage of 66%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+0 of those matches were against the top 4.
+0 of those matches were against the top 8, and they won 0 times. That's a win percentage of 0%
+5 of those matches were against top 16, and they won 4 times. That's a win percentage of 80%
 3 of those matches were against top 32, and they won 1 times. That's a win percentage of 33%
 2 of those matches were against top 64, and they won 2 times. That's a win percentage of 100%
-2 of those matches were against top 100, and they won 2 times. That's a win percentage of 100%
-5 of those matches were against top 200, and they won 5 times. That's a win percentage of 100%
-10 of those matches were against top 500, and they won 10 times. That's a win percentage of 100%
-AT AGE 19, BOUBAKRI Ines fenced 42 junior matches.
-35 of those were victories. That's a victory percentage of 83%
-5 of those matches were against top 5, and they won 3 times. That's a win percentage of 60%
+4 of those matches were against top 128, and they won 4 times. That's a win percentage of 100%
+4 of those matches were against top 256, and they won 4 times. That's a win percentage of 100%
+4 of those matches were against top 512, and they won 4 times. That's a win percentage of 100%
+AT AGE 19, BOUBAKRI Ines fenced 39 junior matches.
+34 of those were victories. That's a victory percentage of 87%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+2 of those matches were against the top 4, and they won 2 times. That's a win percentage of 100%
+0 of those matches were against the top 8.
 3 of those matches were against top 16, and they won 2 times. That's a win percentage of 66%
 4 of those matches were against top 32, and they won 2 times. That's a win percentage of 50%
 8 of those matches were against top 64, and they won 6 times. That's a win percentage of 75%
-6 of those matches were against top 100, and they won 6 times. That's a win percentage of 100%
-9 of those matches were against top 200, and they won 9 times. That's a win percentage of 100%
-16 of those matches were against top 500, and they won 16 times. That's a win percentage of 100%
+8 of those matches were against top 128, and they won 8 times. That's a win percentage of 100%
+10 of those matches were against top 256, and they won 10 times. That's a win percentage of 100%
+4 of those matches were against top 512, and they won 4 times. That's a win percentage of 100%
+AT AGE 20, BOUBAKRI Ines fenced 0 junior matches.
+They fenced 0 junior matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+0 of those matches were against the top 4.
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
 AT AGE 18, BOUBAKRI Ines fenced 17 senior matches.
 15 of those were victories. That's a victory percentage of 88%
-0 of those matches were against top 5.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+5 of those matches were against the top 4, and they won 1 times. That's a win percentage of 20%
+0 of those matches were against the top 8.
 0 of those matches were against top 16.
 1 of those matches were against top 32, and they won 0 times. That's a win percentage of 0%
 1 of those matches were against top 64, and they won 1 times. That's a win percentage of 100%
-7 of those matches were against top 100, and they won 6 times. That's a win percentage of 85%
-5 of those matches were against top 200, and they won 5 times. That's a win percentage of 100%
-8 of those matches were against top 500, and they won 8 times. That's a win percentage of 100%
+8 of those matches were against top 128, and they won 7 times. That's a win percentage of 87%
+4 of those matches were against top 256, and they won 4 times. That's a win percentage of 100%
+3 of those matches were against top 512, and they won 3 times. That's a win percentage of 100%
 AT AGE 19, BOUBAKRI Ines fenced 30 senior matches.
 23 of those were victories. That's a victory percentage of 76%
-0 of those matches were against top 5.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+7 of those matches were against the top 4, and they won 3 times. That's a win percentage of 42%
+0 of those matches were against the top 8.
 1 of those matches were against top 16, and they won 0 times. That's a win percentage of 0%
 1 of those matches were against top 32, and they won 0 times. That's a win percentage of 0%
 11 of those matches were against top 64, and they won 7 times. That's a win percentage of 63%
-2 of those matches were against top 100, and they won 2 times. That's a win percentage of 100%
-8 of those matches were against top 200, and they won 7 times. That's a win percentage of 87%
-15 of those matches were against top 500, and they won 14 times. That's a win percentage of 93%
+3 of those matches were against top 128, and they won 3 times. That's a win percentage of 100%
+9 of those matches were against top 256, and they won 8 times. That's a win percentage of 88%
+5 of those matches were against top 512, and they won 5 times. That's a win percentage of 100%
 AT AGE 20, BOUBAKRI Ines fenced 33 senior matches.
 21 of those were victories. That's a victory percentage of 63%
-2 of those matches were against top 5, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the world #1.
+2 of those matches were against the world #2, and they won 0 times. That's a win percentage of 0%
+5 of those matches were against the top 4, and they won 1 times. That's a win percentage of 20%
+0 of those matches were against the top 8.
 4 of those matches were against top 16, and they won 0 times. That's a win percentage of 0%
 1 of those matches were against top 32, and they won 1 times. That's a win percentage of 100%
 9 of those matches were against top 64, and they won 7 times. That's a win percentage of 77%
-6 of those matches were against top 100, and they won 5 times. That's a win percentage of 83%
-5 of those matches were against top 200, and they won 3 times. That's a win percentage of 60%
-11 of those matches were against top 500, and they won 8 times. That's a win percentage of 72%
+9 of those matches were against top 128, and they won 6 times. That's a win percentage of 66%
+4 of those matches were against top 256, and they won 4 times. That's a win percentage of 100%
+4 of those matches were against top 512, and they won 3 times. That's a win percentage of 75%
 AT AGE 21, BOUBAKRI Ines fenced 22 senior matches.
 17 of those were victories. That's a victory percentage of 77%
-2 of those matches were against top 5, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+6 of those matches were against the top 4, and they won 1 times. That's a win percentage of 16%
+0 of those matches were against the top 8.
 1 of those matches were against top 16, and they won 0 times. That's a win percentage of 0%
 2 of those matches were against top 32, and they won 1 times. That's a win percentage of 50%
 7 of those matches were against top 64, and they won 7 times. That's a win percentage of 100%
-4 of those matches were against top 100, and they won 4 times. That's a win percentage of 100%
-3 of those matches were against top 200, and they won 2 times. That's a win percentage of 66%
-6 of those matches were against top 500, and they won 5 times. That's a win percentage of 83%
+5 of those matches were against top 128, and they won 5 times. That's a win percentage of 100%
+2 of those matches were against top 256, and they won 1 times. That's a win percentage of 50%
+3 of those matches were against top 512, and they won 3 times. That's a win percentage of 100%
 AT AGE 22, BOUBAKRI Ines fenced 30 senior matches.
 19 of those were victories. That's a victory percentage of 63%
-0 of those matches were against top 5.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+5 of those matches were against the top 4, and they won 1 times. That's a win percentage of 20%
+0 of those matches were against the top 8.
 1 of those matches were against top 16, and they won 0 times. That's a win percentage of 0%
 6 of those matches were against top 32, and they won 3 times. That's a win percentage of 50%
 9 of those matches were against top 64, and they won 5 times. That's a win percentage of 55%
-5 of those matches were against top 100, and they won 4 times. That's a win percentage of 80%
-8 of those matches were against top 200, and they won 7 times. That's a win percentage of 87%
-9 of those matches were against top 500, and they won 7 times. That's a win percentage of 77%
+10 of those matches were against top 128, and they won 8 times. That's a win percentage of 80%
+4 of those matches were against top 256, and they won 3 times. That's a win percentage of 75%
+0 of those matches were against top 512
 AT AGE 23, BOUBAKRI Ines fenced 19 senior matches.
 11 of those were victories. That's a victory percentage of 57%
-2 of those matches were against top 5, and they won 1 times. That's a win percentage of 50%
-4 of those matches were against top 16, and they won 1 times. That's a win percentage of 25%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+6 of those matches were against the top 4, and they won 1 times. That's a win percentage of 16%
+6 of those matches were against the top 8, and they won 1 times. That's a win percentage of 50%
+3 of those matches were against top 16, and they won 1 times. That's a win percentage of 33%
 2 of those matches were against top 32, and they won 2 times. That's a win percentage of 100%
 6 of those matches were against top 64, and they won 4 times. That's a win percentage of 66%
-3 of those matches were against top 100, and they won 1 times. That's a win percentage of 33%
-2 of those matches were against top 200, and they won 2 times. That's a win percentage of 100%
-2 of those matches were against top 500, and they won 2 times. That's a win percentage of 100%
+4 of those matches were against top 128, and they won 2 times. That's a win percentage of 50%
+1 of those matches were against top 256, and they won 1 times. That's a win percentage of 100%
+0 of those matches were against top 512
 AT AGE 24, BOUBAKRI Ines fenced 34 senior matches.
 22 of those were victories. That's a victory percentage of 64%
-0 of those matches were against top 5.
-4 of those matches were against top 16, and they won 1 times. That's a win percentage of 25%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+5 of those matches were against the top 4, and they won 1 times. That's a win percentage of 20%
+5 of those matches were against the top 8, and they won 1 times. That's a win percentage of 50%
+2 of those matches were against top 16, and they won 0 times. That's a win percentage of 0%
 3 of those matches were against top 32, and they won 2 times. That's a win percentage of 66%
 10 of those matches were against top 64, and they won 5 times. That's a win percentage of 50%
-10 of those matches were against top 100, and they won 7 times. That's a win percentage of 70%
-5 of those matches were against top 200, and they won 5 times. That's a win percentage of 100%
-7 of those matches were against top 500, and they won 7 times. That's a win percentage of 100%
+11 of those matches were against top 128, and they won 8 times. That's a win percentage of 72%
+5 of those matches were against top 256, and they won 5 times. That's a win percentage of 100%
+1 of those matches were against top 512, and they won 1 times. That's a win percentage of 100%
 AT AGE 25, BOUBAKRI Ines fenced 43 senior matches.
 32 of those were victories. That's a victory percentage of 74%
-4 of those matches were against top 5, and they won 0 times. That's a win percentage of 0%
-10 of those matches were against top 16, and they won 6 times. That's a win percentage of 60%
+0 of those matches were against the world #1.
+1 of those matches were against the world #2, and they won 0 times. That's a win percentage of 0%
+6 of those matches were against the top 4, and they won 1 times. That's a win percentage of 16%
+6 of those matches were against the top 8, and they won 2 times. That's a win percentage of 100%
+8 of those matches were against top 16, and they won 4 times. That's a win percentage of 50%
 5 of those matches were against top 32, and they won 3 times. That's a win percentage of 60%
 12 of those matches were against top 64, and they won 11 times. That's a win percentage of 91%
-7 of those matches were against top 100, and they won 7 times. That's a win percentage of 100%
-5 of those matches were against top 200, and they won 5 times. That's a win percentage of 100%
-5 of those matches were against top 500, and they won 5 times. That's a win percentage of 100%
+7 of those matches were against top 128, and they won 7 times. That's a win percentage of 100%
+5 of those matches were against top 256, and they won 5 times. That's a win percentage of 100%
+0 of those matches were against top 512
 AT AGE 26, BOUBAKRI Ines fenced 44 senior matches.
 30 of those were victories. That's a victory percentage of 68%
-4 of those matches were against top 5, and they won 0 times. That's a win percentage of 0%
-5 of those matches were against top 16, and they won 4 times. That's a win percentage of 80%
+1 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the world #2.
+5 of those matches were against the top 4, and they won 1 times. That's a win percentage of 20%
+5 of those matches were against the top 8, and they won 1 times. That's a win percentage of 20%
+3 of those matches were against top 16, and they won 3 times. That's a win percentage of 100%
 3 of those matches were against top 32, and they won 2 times. That's a win percentage of 66%
 13 of those matches were against top 64, and they won 8 times. That's a win percentage of 61%
-5 of those matches were against top 100, and they won 4 times. That's a win percentage of 80%
-6 of those matches were against top 200, and they won 4 times. That's a win percentage of 66%
-14 of those matches were against top 500, and they won 12 times. That's a win percentage of 85%
+9 of those matches were against top 128, and they won 6 times. That's a win percentage of 66%
+5 of those matches were against top 256, and they won 5 times. That's a win percentage of 100%
+5 of those matches were against top 512, and they won 5 times. That's a win percentage of 100%
 AT AGE 27, BOUBAKRI Ines fenced 26 senior matches.
 20 of those were victories. That's a victory percentage of 76%
-3 of those matches were against top 5, and they won 0 times. That's a win percentage of 0%
-2 of those matches were against top 16, and they won 2 times. That's a win percentage of 100%
+1 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the world #2.
+6 of those matches were against the top 4, and they won 1 times. That's a win percentage of 16%
+6 of those matches were against the top 8, and they won 1 times. That's a win percentage of 100%
+1 of those matches were against top 16, and they won 1 times. That's a win percentage of 100%
 3 of those matches were against top 32, and they won 3 times. That's a win percentage of 100%
 10 of those matches were against top 64, and they won 8 times. That's a win percentage of 80%
-5 of those matches were against top 100, and they won 4 times. That's a win percentage of 80%
-1 of those matches were against top 200, and they won 1 times. That's a win percentage of 100%
-3 of those matches were against top 500, and they won 3 times. That's a win percentage of 100%
+5 of those matches were against top 128, and they won 4 times. That's a win percentage of 80%
+1 of those matches were against top 256, and they won 1 times. That's a win percentage of 100%
+2 of those matches were against top 512, and they won 2 times. That's a win percentage of 100%
 AT AGE 28, BOUBAKRI Ines fenced 26 senior matches.
 19 of those were victories. That's a victory percentage of 73%
-2 of those matches were against top 5, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the world #2.
+6 of those matches were against the top 4, and they won 1 times. That's a win percentage of 16%
+0 of those matches were against the top 8.
 1 of those matches were against top 16, and they won 0 times. That's a win percentage of 0%
 4 of those matches were against top 32, and they won 3 times. That's a win percentage of 75%
 5 of those matches were against top 64, and they won 3 times. That's a win percentage of 60%
-7 of those matches were against top 100, and they won 6 times. That's a win percentage of 85%
-4 of those matches were against top 200, and they won 4 times. That's a win percentage of 100%
-7 of those matches were against top 500, and they won 7 times. That's a win percentage of 100%
+10 of those matches were against top 128, and they won 9 times. That's a win percentage of 90%
+2 of those matches were against top 256, and they won 2 times. That's a win percentage of 100%
+2 of those matches were against top 512, and they won 2 times. That's a win percentage of 100%
 AT AGE 29, BOUBAKRI Ines fenced 37 senior matches.
 29 of those were victories. That's a victory percentage of 78%
-3 of those matches were against top 5, and they won 1 times. That's a win percentage of 33%
+1 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against the world #2, and they won 0 times. That's a win percentage of 0%
+5 of those matches were against the top 4, and they won 1 times. That's a win percentage of 20%
+0 of those matches were against the top 8.
 1 of those matches were against top 16, and they won 1 times. That's a win percentage of 100%
 2 of those matches were against top 32, and they won 2 times. That's a win percentage of 100%
 14 of those matches were against top 64, and they won 9 times. That's a win percentage of 64%
-9 of those matches were against top 100, and they won 9 times. That's a win percentage of 100%
-5 of those matches were against top 200, and they won 4 times. That's a win percentage of 80%
-8 of those matches were against top 500, and they won 7 times. That's a win percentage of 87%
+14 of those matches were against top 128, and they won 13 times. That's a win percentage of 92%
+A0 of those matches were against top 256.
+3 of those matches were against top 512, and they won 3 times. That's a win percentage of 100%
 AT AGE 30, BOUBAKRI Ines fenced 4 senior matches.
 2 of those were victories. That's a victory percentage of 50%
-0 of those matches were against top 5.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+5 of those matches were against the top 4, and they won 1 times. That's a win percentage of 20%
+0 of those matches were against the top 8.
 0 of those matches were against top 16.
 0 of those matches were against top 32.
 3 of those matches were against top 64, and they won 1 times. That's a win percentage of 33%
-0 of those matches were against top 100.
-1 of those matches were against top 200, and they won 1 times. That's a win percentage of 100%
-1 of those matches were against top 500, and they won 1 times. That's a win percentage of 100%
+0 of those matches were against top 128.
+1 of those matches were against top 256, and they won 1 times. That's a win percentage of 100%
+0 of those matches were against top 512

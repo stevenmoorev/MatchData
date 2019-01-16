@@ -1,0 +1,299 @@
+----- STATISTICS -----
+FENCER NAME: KIEFER Lee
+DATE OF BIRTH: 1994-06-15
+AGE: 24
+RANKING: 54
+NUMBER OF VICTORIES: 403
+PERCENTAGE OF VICTORIES: 80%
+NUMBER OF TOUCHES SCORED: 5178
+NUMBER OF TOUCHES RECEIVED: 3373
+FIRST RESULT FROM AGE: 13
+----- PRT STATISTICS -----
+AT AGE 13, KIEFER Lee fenced 0 cadet matches.
+They fenced 0 cadet matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+0 of those matches were against the top 4.
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
+AT AGE 14, KIEFER Lee fenced 0 cadet matches.
+They fenced 0 cadet matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+0 of those matches were against the top 4.
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
+AT AGE 15, KIEFER Lee fenced 0 cadet matches.
+They fenced 0 cadet matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+0 of those matches were against the top 4.
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
+AT AGE 16, KIEFER Lee fenced 0 cadet matches.
+They fenced 0 cadet matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+0 of those matches were against the top 4.
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
+AT AGE 13, KIEFER Lee fenced 6 junior matches.
+2 of those were victories. That's a victory percentage of 33%
+1 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the world #2.
+2 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+1 of those matches were against top 32, and they won 1 times. That's a win percentage of 100%
+1 of those matches were against top 64, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against top 128, and they won 0 times. That's a win percentage of 0%
+2 of those matches were against top 256, and they won 1 times. That's a win percentage of 50%
+0 of those matches were against top 512
+AT AGE 14, KIEFER Lee fenced 26 junior matches.
+22 of those were victories. That's a victory percentage of 84%
+2 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the world #2.
+2 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the top 8.
+2 of those matches were against top 16, and they won 2 times. That's a win percentage of 100%
+2 of those matches were against top 32, and they won 2 times. That's a win percentage of 100%
+5 of those matches were against top 64, and they won 4 times. That's a win percentage of 80%
+4 of those matches were against top 128, and they won 4 times. That's a win percentage of 100%
+8 of those matches were against top 256, and they won 8 times. That's a win percentage of 100%
+2 of those matches were against top 512, and they won 2 times. That's a win percentage of 100%
+AT AGE 15, KIEFER Lee fenced 39 junior matches.
+35 of those were victories. That's a victory percentage of 89%
+2 of those matches were against the world #1, and they won 1 times. That's a win percentage of 50%
+1 of those matches were against the world #2, and they won 1 times. That's a win percentage of 100%
+2 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+2 of those matches were against the top 8, and they won 1 times. That's a win percentage of 50%
+1 of those matches were against top 16, and they won 1 times. That's a win percentage of 100%
+7 of those matches were against top 32, and they won 6 times. That's a win percentage of 85%
+4 of those matches were against top 64, and they won 4 times. That's a win percentage of 100%
+13 of those matches were against top 128, and they won 12 times. That's a win percentage of 92%
+6 of those matches were against top 256, and they won 6 times. That's a win percentage of 100%
+3 of those matches were against top 512, and they won 3 times. That's a win percentage of 100%
+AT AGE 16, KIEFER Lee fenced 32 junior matches.
+29 of those were victories. That's a victory percentage of 90%
+1 of those matches were against the world #1, and they won 1 times. That's a win percentage of 100%
+0 of those matches were against the world #2.
+2 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+2 of those matches were against the top 8, and they won 3 times. That's a win percentage of 100%
+3 of those matches were against top 16, and they won 3 times. That's a win percentage of 100%
+3 of those matches were against top 32, and they won 1 times. That's a win percentage of 33%
+4 of those matches were against top 64, and they won 4 times. That's a win percentage of 100%
+10 of those matches were against top 128, and they won 10 times. That's a win percentage of 100%
+4 of those matches were against top 256, and they won 4 times. That's a win percentage of 100%
+3 of those matches were against top 512, and they won 3 times. That's a win percentage of 100%
+AT AGE 17, KIEFER Lee fenced 10 junior matches.
+9 of those were victories. That's a victory percentage of 90%
+0 of those matches were against the world #1.
+1 of those matches were against the world #2, and they won 0 times. That's a win percentage of 0%
+3 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the top 8.
+1 of those matches were against top 16, and they won 1 times. That's a win percentage of 100%
+1 of those matches were against top 32, and they won 1 times. That's a win percentage of 100%
+1 of those matches were against top 64, and they won 1 times. That's a win percentage of 100%
+4 of those matches were against top 128, and they won 4 times. That's a win percentage of 100%
+2 of those matches were against top 256, and they won 2 times. That's a win percentage of 100%
+0 of those matches were against top 512
+AT AGE 18, KIEFER Lee fenced 11 junior matches.
+10 of those were victories. That's a victory percentage of 90%
+1 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the world #2.
+2 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+2 of those matches were against the top 8, and they won 1 times. That's a win percentage of 100%
+1 of those matches were against top 16, and they won 1 times. That's a win percentage of 100%
+3 of those matches were against top 32, and they won 3 times. That's a win percentage of 100%
+1 of those matches were against top 64, and they won 1 times. That's a win percentage of 100%
+2 of those matches were against top 128, and they won 2 times. That's a win percentage of 100%
+A0 of those matches were against top 256.
+2 of those matches were against top 512, and they won 2 times. That's a win percentage of 100%
+AT AGE 19, KIEFER Lee fenced 12 junior matches.
+11 of those were victories. That's a victory percentage of 91%
+0 of those matches were against the world #1.
+1 of those matches were against the world #2, and they won 1 times. That's a win percentage of 100%
+4 of those matches were against the top 4, and they won 1 times. That's a win percentage of 25%
+4 of those matches were against the top 8, and they won 2 times. That's a win percentage of 66%
+1 of those matches were against top 16, and they won 1 times. That's a win percentage of 100%
+0 of those matches were against top 32.
+2 of those matches were against top 64, and they won 2 times. That's a win percentage of 100%
+2 of those matches were against top 128, and they won 2 times. That's a win percentage of 100%
+1 of those matches were against top 256, and they won 1 times. That's a win percentage of 100%
+1 of those matches were against top 512, and they won 1 times. That's a win percentage of 100%
+AT AGE 20, KIEFER Lee fenced 0 junior matches.
+They fenced 0 junior matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+3 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
+AT AGE 13, KIEFER Lee fenced 0 senior matches.
+They fenced 0 cadet matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+4 of those matches were against the top 4, and they won 1 times. That's a win percentage of 25%
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
+AT AGE 14, KIEFER Lee fenced 0 senior matches.
+They fenced 0 cadet matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+4 of those matches were against the top 4, and they won 1 times. That's a win percentage of 25%
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
+AT AGE 15, KIEFER Lee fenced 34 senior matches.
+21 of those were victories. That's a victory percentage of 61%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+4 of those matches were against the top 4, and they won 1 times. That's a win percentage of 25%
+4 of those matches were against the top 8, and they won 0 times. That's a win percentage of 0%
+2 of those matches were against top 16, and they won 0 times. That's a win percentage of 0%
+5 of those matches were against top 32, and they won 3 times. That's a win percentage of 60%
+5 of those matches were against top 64, and they won 3 times. That's a win percentage of 60%
+11 of those matches were against top 128, and they won 7 times. That's a win percentage of 63%
+7 of those matches were against top 256, and they won 5 times. That's a win percentage of 71%
+3 of those matches were against top 512, and they won 3 times. That's a win percentage of 100%
+AT AGE 16, KIEFER Lee fenced 50 senior matches.
+37 of those were victories. That's a victory percentage of 74%
+1 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+2 of those matches were against the world #2, and they won 0 times. That's a win percentage of 0%
+4 of those matches were against the top 4, and they won 1 times. That's a win percentage of 25%
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+6 of those matches were against top 32, and they won 4 times. That's a win percentage of 66%
+7 of those matches were against top 64, and they won 5 times. That's a win percentage of 71%
+17 of those matches were against top 128, and they won 13 times. That's a win percentage of 76%
+11 of those matches were against top 256, and they won 10 times. That's a win percentage of 90%
+6 of those matches were against top 512, and they won 5 times. That's a win percentage of 83%
+AT AGE 17, KIEFER Lee fenced 33 senior matches.
+24 of those were victories. That's a victory percentage of 72%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+5 of those matches were against the top 4, and they won 1 times. That's a win percentage of 20%
+5 of those matches were against the top 8, and they won 1 times. That's a win percentage of 50%
+1 of those matches were against top 16, and they won 1 times. That's a win percentage of 100%
+11 of those matches were against top 32, and they won 7 times. That's a win percentage of 63%
+4 of those matches were against top 64, and they won 3 times. That's a win percentage of 75%
+6 of those matches were against top 128, and they won 5 times. That's a win percentage of 83%
+7 of those matches were against top 256, and they won 7 times. That's a win percentage of 100%
+0 of those matches were against top 512
+AT AGE 18, KIEFER Lee fenced 24 senior matches.
+19 of those were victories. That's a victory percentage of 79%
+1 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against the world #2, and they won 0 times. That's a win percentage of 0%
+4 of those matches were against the top 4, and they won 1 times. That's a win percentage of 25%
+4 of those matches were against the top 8, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against top 16, and they won 1 times. That's a win percentage of 100%
+4 of those matches were against top 32, and they won 3 times. That's a win percentage of 75%
+7 of those matches were against top 64, and they won 6 times. That's a win percentage of 85%
+6 of those matches were against top 128, and they won 6 times. That's a win percentage of 100%
+3 of those matches were against top 256, and they won 3 times. That's a win percentage of 100%
+0 of those matches were against top 512
+AT AGE 19, KIEFER Lee fenced 35 senior matches.
+28 of those were victories. That's a victory percentage of 80%
+0 of those matches were against the world #1.
+1 of those matches were against the world #2, and they won 0 times. That's a win percentage of 0%
+6 of those matches were against the top 4, and they won 2 times. That's a win percentage of 33%
+6 of those matches were against the top 8, and they won 1 times. That's a win percentage of 100%
+1 of those matches were against top 16, and they won 1 times. That's a win percentage of 100%
+6 of those matches were against top 32, and they won 5 times. That's a win percentage of 83%
+8 of those matches were against top 64, and they won 6 times. That's a win percentage of 75%
+9 of those matches were against top 128, and they won 7 times. That's a win percentage of 77%
+8 of those matches were against top 256, and they won 8 times. That's a win percentage of 100%
+0 of those matches were against top 512
+AT AGE 20, KIEFER Lee fenced 45 senior matches.
+37 of those were victories. That's a victory percentage of 82%
+1 of those matches were against the world #1, and they won 1 times. That's a win percentage of 100%
+3 of those matches were against the world #2, and they won 1 times. That's a win percentage of 33%
+5 of those matches were against the top 4, and they won 1 times. That's a win percentage of 20%
+5 of those matches were against the top 8, and they won 1 times. That's a win percentage of 50%
+3 of those matches were against top 16, and they won 2 times. That's a win percentage of 66%
+9 of those matches were against top 32, and they won 8 times. That's a win percentage of 88%
+11 of those matches were against top 64, and they won 9 times. That's a win percentage of 81%
+8 of those matches were against top 128, and they won 8 times. That's a win percentage of 100%
+5 of those matches were against top 256, and they won 5 times. That's a win percentage of 100%
+1 of those matches were against top 512, and they won 1 times. That's a win percentage of 100%
+AT AGE 21, KIEFER Lee fenced 36 senior matches.
+27 of those were victories. That's a victory percentage of 75%
+2 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against the world #2, and they won 0 times. That's a win percentage of 0%
+4 of those matches were against the top 4, and they won 1 times. That's a win percentage of 25%
+4 of those matches were against the top 8, and they won 1 times. That's a win percentage of 100%
+4 of those matches were against top 16, and they won 3 times. That's a win percentage of 75%
+12 of those matches were against top 32, and they won 10 times. That's a win percentage of 83%
+5 of those matches were against top 64, and they won 4 times. That's a win percentage of 80%
+6 of those matches were against top 128, and they won 6 times. That's a win percentage of 100%
+3 of those matches were against top 256, and they won 3 times. That's a win percentage of 100%
+0 of those matches were against top 512
+AT AGE 22, KIEFER Lee fenced 44 senior matches.
+39 of those were victories. That's a victory percentage of 88%
+2 of those matches were against the world #1, and they won 2 times. That's a win percentage of 100%
+2 of those matches were against the world #2, and they won 2 times. That's a win percentage of 100%
+4 of those matches were against the top 4, and they won 1 times. That's a win percentage of 25%
+4 of those matches were against the top 8, and they won 2 times. That's a win percentage of 100%
+5 of those matches were against top 16, and they won 4 times. That's a win percentage of 80%
+14 of those matches were against top 32, and they won 12 times. That's a win percentage of 85%
+7 of those matches were against top 64, and they won 5 times. That's a win percentage of 71%
+5 of those matches were against top 128, and they won 5 times. That's a win percentage of 100%
+5 of those matches were against top 256, and they won 5 times. That's a win percentage of 100%
+2 of those matches were against top 512, and they won 2 times. That's a win percentage of 100%
+AT AGE 23, KIEFER Lee fenced 40 senior matches.
+33 of those were victories. That's a victory percentage of 82%
+3 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against the world #2, and they won 1 times. That's a win percentage of 100%
+4 of those matches were against the top 4, and they won 1 times. That's a win percentage of 25%
+4 of those matches were against the top 8, and they won 2 times. That's a win percentage of 100%
+3 of those matches were against top 16, and they won 3 times. That's a win percentage of 100%
+6 of those matches were against top 32, and they won 4 times. That's a win percentage of 66%
+8 of those matches were against top 64, and they won 8 times. That's a win percentage of 100%
+13 of those matches were against top 128, and they won 11 times. That's a win percentage of 84%
+2 of those matches were against top 256, and they won 2 times. That's a win percentage of 100%
+2 of those matches were against top 512, and they won 2 times. That's a win percentage of 100%
+AT AGE 24, KIEFER Lee fenced 23 senior matches.
+19 of those were victories. That's a victory percentage of 82%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+5 of those matches were against the top 4, and they won 1 times. That's a win percentage of 20%
+5 of those matches were against the top 8, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against top 16, and they won 1 times. That's a win percentage of 100%
+4 of those matches were against top 32, and they won 3 times. That's a win percentage of 75%
+5 of those matches were against top 64, and they won 5 times. That's a win percentage of 100%
+5 of those matches were against top 128, and they won 5 times. That's a win percentage of 100%
+4 of those matches were against top 256, and they won 4 times. That's a win percentage of 100%
+1 of those matches were against top 512, and they won 1 times. That's a win percentage of 100%

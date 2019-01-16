@@ -1,0 +1,239 @@
+----- STATISTICS -----
+FENCER NAME: DERIGLAZOVA Inna
+DATE OF BIRTH: 1990-03-10
+AGE: 28
+RANKING: 10
+NUMBER OF VICTORIES: 481
+PERCENTAGE OF VICTORIES: 80%
+NUMBER OF TOUCHES SCORED: 6456
+NUMBER OF TOUCHES RECEIVED: 4219
+FIRST RESULT FROM AGE: 16
+----- PRT STATISTICS -----
+AT AGE 16, DERIGLAZOVA Inna fenced 0 cadet matches.
+They fenced 0 cadet matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+0 of those matches were against the top 4.
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
+AT AGE 16, DERIGLAZOVA Inna fenced 19 junior matches.
+11 of those were victories. That's a victory percentage of 57%
+1 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against the world #2, and they won 1 times. That's a win percentage of 100%
+0 of those matches were against the top 4.
+0 of those matches were against the top 8.
+1 of those matches were against top 16, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against top 32, and they won 1 times. That's a win percentage of 100%
+5 of those matches were against top 64, and they won 2 times. That's a win percentage of 40%
+1 of those matches were against top 128, and they won 1 times. That's a win percentage of 100%
+7 of those matches were against top 256, and they won 4 times. That's a win percentage of 57%
+2 of those matches were against top 512, and they won 2 times. That's a win percentage of 100%
+AT AGE 17, DERIGLAZOVA Inna fenced 40 junior matches.
+37 of those were victories. That's a victory percentage of 92%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+1 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against the top 8, and they won 1 times. That's a win percentage of 100%
+2 of those matches were against top 16, and they won 2 times. That's a win percentage of 100%
+6 of those matches were against top 32, and they won 6 times. That's a win percentage of 100%
+12 of those matches were against top 64, and they won 10 times. That's a win percentage of 83%
+6 of those matches were against top 128, and they won 6 times. That's a win percentage of 100%
+9 of those matches were against top 256, and they won 9 times. That's a win percentage of 100%
+3 of those matches were against top 512, and they won 3 times. That's a win percentage of 100%
+AT AGE 18, DERIGLAZOVA Inna fenced 10 junior matches.
+10 of those were victories. That's a victory percentage of 100%
+0 of those matches were against the world #1.
+1 of those matches were against the world #2, and they won 1 times. That's a win percentage of 100%
+0 of those matches were against the top 4.
+0 of those matches were against the top 8, and they won 1 times. That's a win percentage of 100%
+1 of those matches were against top 16, and they won 1 times. That's a win percentage of 100%
+1 of those matches were against top 32, and they won 1 times. That's a win percentage of 100%
+2 of those matches were against top 64, and they won 2 times. That's a win percentage of 100%
+3 of those matches were against top 128, and they won 3 times. That's a win percentage of 100%
+A0 of those matches were against top 256.
+1 of those matches were against top 512, and they won 1 times. That's a win percentage of 100%
+AT AGE 19, DERIGLAZOVA Inna fenced 41 junior matches.
+35 of those were victories. That's a victory percentage of 85%
+0 of those matches were against the world #1.
+1 of those matches were against the world #2, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the top 4.
+0 of those matches were against the top 8, and they won 2 times. That's a win percentage of 50%
+5 of those matches were against top 16, and they won 4 times. That's a win percentage of 80%
+6 of those matches were against top 32, and they won 6 times. That's a win percentage of 100%
+6 of those matches were against top 64, and they won 6 times. That's a win percentage of 100%
+12 of those matches were against top 128, and they won 11 times. That's a win percentage of 91%
+6 of those matches were against top 256, and they won 6 times. That's a win percentage of 100%
+1 of those matches were against top 512, and they won 0 times. That's a win percentage of 0%
+AT AGE 20, DERIGLAZOVA Inna fenced 11 junior matches.
+11 of those were victories. That's a victory percentage of 100%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+2 of those matches were against the top 4, and they won 2 times. That's a win percentage of 100%
+2 of those matches were against the top 8, and they won 1 times. That's a win percentage of 100%
+2 of those matches were against top 16, and they won 2 times. That's a win percentage of 100%
+2 of those matches were against top 32, and they won 2 times. That's a win percentage of 100%
+2 of those matches were against top 64, and they won 2 times. That's a win percentage of 100%
+1 of those matches were against top 128, and they won 1 times. That's a win percentage of 100%
+1 of those matches were against top 256, and they won 1 times. That's a win percentage of 100%
+1 of those matches were against top 512, and they won 1 times. That's a win percentage of 100%
+AT AGE 16, DERIGLAZOVA Inna fenced 0 senior matches.
+They fenced 0 cadet matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+14 of those matches were against the top 4, and they won 9 times. That's a win percentage of 64%
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
+AT AGE 17, DERIGLAZOVA Inna fenced 7 senior matches.
+3 of those were victories. That's a victory percentage of 42%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+15 of those matches were against the top 4, and they won 9 times. That's a win percentage of 60%
+15 of those matches were against the top 8, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against top 16.
+1 of those matches were against top 32, and they won 0 times. That's a win percentage of 0%
+3 of those matches were against top 64, and they won 2 times. That's a win percentage of 66%
+1 of those matches were against top 128, and they won 0 times. That's a win percentage of 0%
+A0 of those matches were against top 256.
+1 of those matches were against top 512, and they won 1 times. That's a win percentage of 100%
+AT AGE 18, DERIGLAZOVA Inna fenced 7 senior matches.
+3 of those were victories. That's a victory percentage of 42%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+14 of those matches were against the top 4, and they won 9 times. That's a win percentage of 64%
+0 of those matches were against the top 8.
+1 of those matches were against top 16, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against top 32, and they won 0 times. That's a win percentage of 0%
+3 of those matches were against top 64, and they won 1 times. That's a win percentage of 33%
+0 of those matches were against top 128.
+1 of those matches were against top 256, and they won 1 times. That's a win percentage of 100%
+1 of those matches were against top 512, and they won 1 times. That's a win percentage of 100%
+AT AGE 19, DERIGLAZOVA Inna fenced 37 senior matches.
+28 of those were victories. That's a victory percentage of 75%
+0 of those matches were against the world #1.
+1 of those matches were against the world #2, and they won 0 times. That's a win percentage of 0%
+14 of those matches were against the top 4, and they won 9 times. That's a win percentage of 64%
+14 of those matches were against the top 8, and they won 0 times. That's a win percentage of 0%
+3 of those matches were against top 16, and they won 2 times. That's a win percentage of 66%
+4 of those matches were against top 32, and they won 2 times. That's a win percentage of 50%
+3 of those matches were against top 64, and they won 2 times. That's a win percentage of 66%
+11 of those matches were against top 128, and they won 9 times. That's a win percentage of 81%
+11 of those matches were against top 256, and they won 10 times. That's a win percentage of 90%
+3 of those matches were against top 512, and they won 3 times. That's a win percentage of 100%
+AT AGE 20, DERIGLAZOVA Inna fenced 57 senior matches.
+40 of those were victories. That's a victory percentage of 70%
+3 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the world #2.
+16 of those matches were against the top 4, and they won 11 times. That's a win percentage of 68%
+16 of those matches were against the top 8, and they won 3 times. That's a win percentage of 60%
+5 of those matches were against top 16, and they won 2 times. That's a win percentage of 40%
+8 of those matches were against top 32, and they won 5 times. That's a win percentage of 62%
+11 of those matches were against top 64, and they won 9 times. That's a win percentage of 81%
+9 of those matches were against top 128, and they won 7 times. That's a win percentage of 77%
+8 of those matches were against top 256, and they won 7 times. That's a win percentage of 87%
+6 of those matches were against top 512, and they won 6 times. That's a win percentage of 100%
+AT AGE 21, DERIGLAZOVA Inna fenced 31 senior matches.
+20 of those were victories. That's a victory percentage of 64%
+1 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against the world #2, and they won 0 times. That's a win percentage of 0%
+15 of those matches were against the top 4, and they won 9 times. That's a win percentage of 60%
+15 of those matches were against the top 8, and they won 1 times. That's a win percentage of 50%
+2 of those matches were against top 16, and they won 0 times. That's a win percentage of 0%
+6 of those matches were against top 32, and they won 6 times. That's a win percentage of 100%
+7 of those matches were against top 64, and they won 4 times. That's a win percentage of 57%
+8 of those matches were against top 128, and they won 7 times. That's a win percentage of 87%
+2 of those matches were against top 256, and they won 2 times. That's a win percentage of 100%
+0 of those matches were against top 512
+AT AGE 22, DERIGLAZOVA Inna fenced 54 senior matches.
+47 of those were victories. That's a victory percentage of 87%
+4 of those matches were against the world #1, and they won 3 times. That's a win percentage of 75%
+0 of those matches were against the world #2.
+17 of those matches were against the top 4, and they won 10 times. That's a win percentage of 58%
+17 of those matches were against the top 8, and they won 3 times. That's a win percentage of 100%
+5 of those matches were against top 16, and they won 4 times. That's a win percentage of 80%
+6 of those matches were against top 32, and they won 3 times. That's a win percentage of 50%
+10 of those matches were against top 64, and they won 10 times. That's a win percentage of 100%
+10 of those matches were against top 128, and they won 10 times. That's a win percentage of 100%
+8 of those matches were against top 256, and they won 8 times. That's a win percentage of 100%
+2 of those matches were against top 512, and they won 2 times. That's a win percentage of 100%
+AT AGE 23, DERIGLAZOVA Inna fenced 41 senior matches.
+32 of those were victories. That's a victory percentage of 78%
+1 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against the world #2, and they won 0 times. That's a win percentage of 0%
+14 of those matches were against the top 4, and they won 9 times. That's a win percentage of 64%
+14 of those matches were against the top 8, and they won 2 times. That's a win percentage of 50%
+4 of those matches were against top 16, and they won 1 times. That's a win percentage of 25%
+12 of those matches were against top 32, and they won 11 times. That's a win percentage of 91%
+10 of those matches were against top 64, and they won 9 times. That's a win percentage of 90%
+3 of those matches were against top 128, and they won 3 times. That's a win percentage of 100%
+6 of those matches were against top 256, and they won 6 times. That's a win percentage of 100%
+0 of those matches were against top 512
+AT AGE 24, DERIGLAZOVA Inna fenced 50 senior matches.
+38 of those were victories. That's a victory percentage of 76%
+2 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+3 of those matches were against the world #2, and they won 2 times. That's a win percentage of 66%
+15 of those matches were against the top 4, and they won 9 times. That's a win percentage of 60%
+15 of those matches were against the top 8, and they won 2 times. That's a win percentage of 100%
+5 of those matches were against top 16, and they won 3 times. That's a win percentage of 60%
+11 of those matches were against top 32, and they won 8 times. That's a win percentage of 72%
+8 of those matches were against top 64, and they won 8 times. That's a win percentage of 100%
+10 of those matches were against top 128, and they won 8 times. That's a win percentage of 80%
+5 of those matches were against top 256, and they won 5 times. That's a win percentage of 100%
+0 of those matches were against top 512
+AT AGE 25, DERIGLAZOVA Inna fenced 54 senior matches.
+43 of those were victories. That's a victory percentage of 79%
+5 of those matches were against the world #1, and they won 1 times. That's a win percentage of 20%
+2 of those matches were against the world #2, and they won 1 times. That's a win percentage of 50%
+15 of those matches were against the top 4, and they won 10 times. That's a win percentage of 66%
+15 of those matches were against the top 8, and they won 2 times. That's a win percentage of 66%
+10 of those matches were against top 16, and they won 7 times. That's a win percentage of 70%
+10 of those matches were against top 32, and they won 9 times. That's a win percentage of 90%
+11 of those matches were against top 64, and they won 11 times. That's a win percentage of 100%
+10 of those matches were against top 128, and they won 10 times. That's a win percentage of 100%
+2 of those matches were against top 256, and they won 1 times. That's a win percentage of 50%
+0 of those matches were against top 512
+AT AGE 26, DERIGLAZOVA Inna fenced 37 senior matches.
+31 of those were victories. That's a victory percentage of 83%
+1 of those matches were against the world #1, and they won 1 times. That's a win percentage of 100%
+0 of those matches were against the world #2.
+16 of those matches were against the top 4, and they won 10 times. That's a win percentage of 62%
+16 of those matches were against the top 8, and they won 4 times. That's a win percentage of 100%
+5 of those matches were against top 16, and they won 3 times. That's a win percentage of 60%
+5 of those matches were against top 32, and they won 4 times. That's a win percentage of 80%
+8 of those matches were against top 64, and they won 7 times. That's a win percentage of 87%
+8 of those matches were against top 128, and they won 7 times. That's a win percentage of 87%
+2 of those matches were against top 256, and they won 2 times. That's a win percentage of 100%
+1 of those matches were against top 512, and they won 1 times. That's a win percentage of 100%
+AT AGE 27, DERIGLAZOVA Inna fenced 52 senior matches.
+46 of those were victories. That's a victory percentage of 88%
+0 of those matches were against the world #1.
+3 of those matches were against the world #2, and they won 2 times. That's a win percentage of 66%
+17 of those matches were against the top 4, and they won 12 times. That's a win percentage of 70%
+17 of those matches were against the top 8, and they won 4 times. That's a win percentage of 80%
+8 of those matches were against top 16, and they won 8 times. That's a win percentage of 100%
+6 of those matches were against top 32, and they won 6 times. That's a win percentage of 100%
+9 of those matches were against top 64, and they won 7 times. That's a win percentage of 77%
+10 of those matches were against top 128, and they won 10 times. That's a win percentage of 100%
+5 of those matches were against top 256, and they won 5 times. That's a win percentage of 100%
+0 of those matches were against top 512
+AT AGE 28, DERIGLAZOVA Inna fenced 45 senior matches.
+43 of those were victories. That's a victory percentage of 95%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+15 of those matches were against the top 4, and they won 10 times. That's a win percentage of 66%
+15 of those matches were against the top 8, and they won 4 times. That's a win percentage of 80%
+5 of those matches were against top 16, and they won 5 times. That's a win percentage of 100%
+6 of those matches were against top 32, and they won 5 times. That's a win percentage of 83%
+13 of those matches were against top 64, and they won 13 times. That's a win percentage of 100%
+9 of those matches were against top 128, and they won 9 times. That's a win percentage of 100%
+3 of those matches were against top 256, and they won 3 times. That's a win percentage of 100%
+1 of those matches were against top 512, and they won 1 times. That's a win percentage of 100%

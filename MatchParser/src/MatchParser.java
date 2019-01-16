@@ -203,7 +203,23 @@ public class MatchParser {
             		s="2019";
             	}
             	
+            	//change back to serial instead of url fetch
             	
+            	String l;
+            	File file = new File("src/" + weapon + "F" + category +season + ".txt");
+            	try(BufferedReader bufr = new BufferedReader(new FileReader(file))){
+            		while((l = bufr.readLine()) != null) {
+            			if(l.contains(opponent)){
+            				String rankInfo[] = l.split("	");
+        					ranking = rankInfo[0];
+        					country = rankInfo[2];
+        					//ranking = rank;
+            			}
+            		}
+            	}
+            	/**
+            	 * 
+            	 * 
             	URL urlr;
     			urlr = new URL("http://fie.org/results-statistic/ranking/pdf?category=" + category+  "&weapon=" + weapon+ "&gender=F&event=I&season=" + s+ "&federation=&name=");
     			InputStream isr = urlr.openStream();
@@ -223,7 +239,7 @@ public class MatchParser {
             				}
             			}	
             		}
-            		
+            		**/
             	
             		String line3;
             		
@@ -346,7 +362,7 @@ public class MatchParser {
             		line2 = br2.readLine();
             		int temp = 0, vict = 0, top1 = 0, vtop1 = 0, top2 = 0, vtop2 =0, top4 = 0, vtop4 = 0, top8 = 0, vtop8 = 0, top16 = 0, vtop16 = 0, top32=0, vtop32 = 0, top64 = 0, vtop64 = 0, top128 = 0, vtop128 = 0, top256 = 0, vtop256 = 0, top512 = 0, vtop512 = 0;
             		while ((line2 = br2.readLine()) != null) {
-            			if(line2.contains("BRIND&#039") || line2.contains("D&#039")){
+            			while(line2.contains("BRIND&#039") || line2.contains("D&#039") || line2.contains("NOVALIN&#039")){
             				line2 = br2.readLine();
             			}
             		String[] matchInfo = line2.split(";");
@@ -515,7 +531,7 @@ public class MatchParser {
             		line2 = br2.readLine();
             		int temp = 0, vict = 0, top1 = 0, vtop1 = 0, top2 = 0, vtop2 =0, top4 = 0, vtop4 = 0, top8 = 0, vtop8 = 0, top16 = 0, vtop16 = 0, top32=0, vtop32 = 0, top64 = 0, vtop64 = 0, top128 = 0, vtop128 = 0, top256 = 0, vtop256 = 0, top512 = 0, vtop512 = 0;
             		while ((line2 = br2.readLine()) != null) {
-            			if(line2.contains("BRIND&#039") || line2.contains("D&#039")){
+            			while(line2.contains("BRIND&#039") || line2.contains("D&#039") || line2.contains("NOVALIN&#039")){
             				line2 = br2.readLine();
             			}
             		String[] matchInfo = line2.split(";");
@@ -683,7 +699,7 @@ public class MatchParser {
             		line2 = br2.readLine();
             		int temp = 0, vict = 0, top1 = 0, vtop1 = 0, top2 = 0, vtop2 =0, top4 = 0, vtop4 = 0, top8 = 0, vtop8 = 0, top16 = 0, vtop16 = 0, top32=0, vtop32 = 0, top64 = 0, vtop64 = 0, top128 = 0, vtop128 = 0, top256 = 0, vtop256 = 0, top512 = 0, vtop512 = 0;
             		while ((line2 = br2.readLine()) != null) {
-            			if(line2.contains("BRIND&#039") || line2.contains("D&#039")){
+            			while(line2.contains("BRIND&#039") || line2.contains("D&#039") || line2.contains("NOVALIN&#039")){
             				line2 = br2.readLine();
             			}
             		String[] matchInfo = line2.split(";");

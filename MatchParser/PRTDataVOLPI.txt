@@ -1,0 +1,287 @@
+----- STATISTICS -----
+FENCER NAME: VOLPI Alice
+DATE OF BIRTH: 1992-04-15
+AGE: 26
+RANKING: 131
+NUMBER OF VICTORIES: 621
+PERCENTAGE OF VICTORIES: 75%
+NUMBER OF TOUCHES SCORED: 7083
+NUMBER OF TOUCHES RECEIVED: 5033
+FIRST RESULT FROM AGE: 14
+----- PRT STATISTICS -----
+AT AGE 14, VOLPI Alice fenced 0 cadet matches.
+They fenced 0 cadet matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+0 of those matches were against the top 4.
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
+AT AGE 15, VOLPI Alice fenced 0 cadet matches.
+They fenced 0 cadet matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+2 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
+AT AGE 16, VOLPI Alice fenced 0 cadet matches.
+They fenced 0 cadet matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+0 of those matches were against the top 4.
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
+AT AGE 14, VOLPI Alice fenced 45 junior matches.
+29 of those were victories. That's a victory percentage of 64%
+1 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the world #2.
+9 of those matches were against the top 4, and they won 7 times. That's a win percentage of 77%
+9 of those matches were against the top 8, and they won 0 times. That's a win percentage of 0%
+2 of those matches were against top 16, and they won 1 times. That's a win percentage of 50%
+7 of those matches were against top 32, and they won 4 times. That's a win percentage of 57%
+8 of those matches were against top 64, and they won 4 times. That's a win percentage of 50%
+8 of those matches were against top 128, and they won 5 times. That's a win percentage of 62%
+10 of those matches were against top 256, and they won 9 times. That's a win percentage of 90%
+7 of those matches were against top 512, and they won 6 times. That's a win percentage of 85%
+AT AGE 15, VOLPI Alice fenced 45 junior matches.
+35 of those were victories. That's a victory percentage of 77%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+11 of those matches were against the top 4, and they won 7 times. That's a win percentage of 63%
+0 of those matches were against the top 8.
+4 of those matches were against top 16, and they won 3 times. That's a win percentage of 75%
+6 of those matches were against top 32, and they won 3 times. That's a win percentage of 50%
+3 of those matches were against top 64, and they won 2 times. That's a win percentage of 66%
+14 of those matches were against top 128, and they won 11 times. That's a win percentage of 78%
+12 of those matches were against top 256, and they won 12 times. That's a win percentage of 100%
+4 of those matches were against top 512, and they won 4 times. That's a win percentage of 100%
+AT AGE 16, VOLPI Alice fenced 52 junior matches.
+42 of those were victories. That's a victory percentage of 80%
+1 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against the world #2, and they won 1 times. That's a win percentage of 100%
+9 of those matches were against the top 4, and they won 7 times. That's a win percentage of 77%
+9 of those matches were against the top 8, and they won 0 times. That's a win percentage of 0%
+8 of those matches were against top 16, and they won 5 times. That's a win percentage of 62%
+2 of those matches were against top 32, and they won 2 times. That's a win percentage of 100%
+11 of those matches were against top 64, and they won 8 times. That's a win percentage of 72%
+14 of those matches were against top 128, and they won 13 times. That's a win percentage of 92%
+5 of those matches were against top 256, and they won 5 times. That's a win percentage of 100%
+6 of those matches were against top 512, and they won 6 times. That's a win percentage of 100%
+AT AGE 17, VOLPI Alice fenced 70 junior matches.
+59 of those were victories. That's a victory percentage of 84%
+0 of those matches were against the world #1.
+1 of those matches were against the world #2, and they won 1 times. That's a win percentage of 100%
+10 of those matches were against the top 4, and they won 8 times. That's a win percentage of 80%
+10 of those matches were against the top 8, and they won 1 times. That's a win percentage of 33%
+5 of those matches were against top 16, and they won 3 times. That's a win percentage of 60%
+10 of those matches were against top 32, and they won 9 times. That's a win percentage of 90%
+12 of those matches were against top 64, and they won 11 times. That's a win percentage of 91%
+17 of those matches were against top 128, and they won 15 times. That's a win percentage of 88%
+14 of those matches were against top 256, and they won 12 times. That's a win percentage of 85%
+4 of those matches were against top 512, and they won 4 times. That's a win percentage of 100%
+AT AGE 18, VOLPI Alice fenced 91 junior matches.
+73 of those were victories. That's a victory percentage of 80%
+0 of those matches were against the world #1.
+1 of those matches were against the world #2, and they won 0 times. That's a win percentage of 0%
+12 of those matches were against the top 4, and they won 8 times. That's a win percentage of 66%
+12 of those matches were against the top 8, and they won 2 times. That's a win percentage of 66%
+8 of those matches were against top 16, and they won 7 times. That's a win percentage of 87%
+14 of those matches were against top 32, and they won 9 times. That's a win percentage of 64%
+14 of those matches were against top 64, and they won 13 times. That's a win percentage of 92%
+20 of those matches were against top 128, and they won 15 times. That's a win percentage of 75%
+23 of those matches were against top 256, and they won 21 times. That's a win percentage of 91%
+5 of those matches were against top 512, and they won 5 times. That's a win percentage of 100%
+AT AGE 19, VOLPI Alice fenced 75 junior matches.
+64 of those were victories. That's a victory percentage of 85%
+0 of those matches were against the world #1.
+4 of those matches were against the world #2, and they won 4 times. That's a win percentage of 100%
+11 of those matches were against the top 4, and they won 8 times. That's a win percentage of 72%
+11 of those matches were against the top 8, and they won 5 times. That's a win percentage of 100%
+4 of those matches were against top 16, and they won 3 times. That's a win percentage of 75%
+7 of those matches were against top 32, and they won 6 times. That's a win percentage of 85%
+14 of those matches were against top 64, and they won 9 times. That's a win percentage of 64%
+15 of those matches were against top 128, and they won 14 times. That's a win percentage of 93%
+13 of those matches were against top 256, and they won 12 times. That's a win percentage of 92%
+8 of those matches were against top 512, and they won 7 times. That's a win percentage of 87%
+AT AGE 20, VOLPI Alice fenced 0 junior matches.
+They fenced 0 junior matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+10 of those matches were against the top 4, and they won 7 times. That's a win percentage of 70%
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
+AT AGE 14, VOLPI Alice fenced 0 senior matches.
+They fenced 0 cadet matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+4 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
+AT AGE 15, VOLPI Alice fenced 0 senior matches.
+They fenced 0 cadet matches found this year.
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+6 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 128.
+A0 of those matches were against top 256.
+0 of those matches were against top 512
+AT AGE 16, VOLPI Alice fenced 8 senior matches.
+5 of those were victories. That's a victory percentage of 62%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+4 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the top 8.
+1 of those matches were against top 16, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against top 32, and they won 0 times. That's a win percentage of 0%
+2 of those matches were against top 64, and they won 1 times. That's a win percentage of 50%
+1 of those matches were against top 128, and they won 1 times. That's a win percentage of 100%
+3 of those matches were against top 256, and they won 3 times. That's a win percentage of 100%
+0 of those matches were against top 512
+AT AGE 17, VOLPI Alice fenced 12 senior matches.
+7 of those were victories. That's a victory percentage of 58%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+5 of those matches were against the top 4, and they won 1 times. That's a win percentage of 20%
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+1 of those matches were against top 32, and they won 0 times. That's a win percentage of 0%
+3 of those matches were against top 64, and they won 2 times. That's a win percentage of 66%
+4 of those matches were against top 128, and they won 1 times. That's a win percentage of 25%
+2 of those matches were against top 256, and they won 2 times. That's a win percentage of 100%
+2 of those matches were against top 512, and they won 2 times. That's a win percentage of 100%
+AT AGE 18, VOLPI Alice fenced 18 senior matches.
+15 of those were victories. That's a victory percentage of 83%
+1 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the world #2.
+7 of those matches were against the top 4, and they won 1 times. That's a win percentage of 14%
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+1 of those matches were against top 32, and they won 1 times. That's a win percentage of 100%
+4 of those matches were against top 64, and they won 2 times. That's a win percentage of 50%
+6 of those matches were against top 128, and they won 6 times. That's a win percentage of 100%
+2 of those matches were against top 256, and they won 2 times. That's a win percentage of 100%
+4 of those matches were against top 512, and they won 4 times. That's a win percentage of 100%
+AT AGE 19, VOLPI Alice fenced 32 senior matches.
+22 of those were victories. That's a victory percentage of 68%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+6 of those matches were against the top 4, and they won 1 times. That's a win percentage of 16%
+0 of those matches were against the top 8.
+0 of those matches were against top 16.
+3 of those matches were against top 32, and they won 3 times. That's a win percentage of 100%
+4 of those matches were against top 64, and they won 1 times. That's a win percentage of 25%
+11 of those matches were against top 128, and they won 7 times. That's a win percentage of 63%
+8 of those matches were against top 256, and they won 7 times. That's a win percentage of 87%
+5 of those matches were against top 512, and they won 4 times. That's a win percentage of 80%
+AT AGE 20, VOLPI Alice fenced 77 senior matches.
+56 of those were victories. That's a victory percentage of 72%
+2 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against the world #2, and they won 1 times. That's a win percentage of 100%
+5 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+5 of those matches were against the top 8, and they won 0 times. That's a win percentage of 0%
+7 of those matches were against top 16, and they won 4 times. That's a win percentage of 57%
+7 of those matches were against top 32, and they won 4 times. That's a win percentage of 57%
+13 of those matches were against top 64, and they won 10 times. That's a win percentage of 76%
+20 of those matches were against top 128, and they won 15 times. That's a win percentage of 75%
+14 of those matches were against top 256, and they won 12 times. That's a win percentage of 85%
+11 of those matches were against top 512, and they won 10 times. That's a win percentage of 90%
+AT AGE 21, VOLPI Alice fenced 48 senior matches.
+34 of those were victories. That's a victory percentage of 70%
+3 of those matches were against the world #1, and they won 1 times. That's a win percentage of 33%
+2 of those matches were against the world #2, and they won 1 times. That's a win percentage of 50%
+4 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+4 of those matches were against the top 8, and they won 1 times. That's a win percentage of 33%
+6 of those matches were against top 16, and they won 5 times. That's a win percentage of 83%
+3 of those matches were against top 32, and they won 2 times. That's a win percentage of 66%
+8 of those matches were against top 64, and they won 6 times. That's a win percentage of 75%
+11 of those matches were against top 128, and they won 9 times. That's a win percentage of 81%
+7 of those matches were against top 256, and they won 5 times. That's a win percentage of 71%
+5 of those matches were against top 512, and they won 4 times. That's a win percentage of 80%
+AT AGE 22, VOLPI Alice fenced 73 senior matches.
+46 of those were victories. That's a victory percentage of 63%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+4 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+4 of those matches were against the top 8, and they won 0 times. That's a win percentage of 0%
+6 of those matches were against top 16, and they won 2 times. That's a win percentage of 33%
+5 of those matches were against top 32, and they won 3 times. That's a win percentage of 60%
+15 of those matches were against top 64, and they won 7 times. That's a win percentage of 46%
+19 of those matches were against top 128, and they won 15 times. That's a win percentage of 78%
+13 of those matches were against top 256, and they won 9 times. That's a win percentage of 69%
+12 of those matches were against top 512, and they won 10 times. That's a win percentage of 83%
+AT AGE 23, VOLPI Alice fenced 62 senior matches.
+53 of those were victories. That's a victory percentage of 85%
+1 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+3 of those matches were against the world #2, and they won 2 times. That's a win percentage of 66%
+4 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+4 of those matches were against the top 8, and they won 2 times. That's a win percentage of 66%
+6 of those matches were against top 16, and they won 3 times. That's a win percentage of 50%
+9 of those matches were against top 32, and they won 9 times. That's a win percentage of 100%
+9 of those matches were against top 64, and they won 9 times. That's a win percentage of 100%
+12 of those matches were against top 128, and they won 12 times. That's a win percentage of 100%
+7 of those matches were against top 256, and they won 6 times. That's a win percentage of 85%
+11 of those matches were against top 512, and they won 10 times. That's a win percentage of 90%
+AT AGE 24, VOLPI Alice fenced 33 senior matches.
+22 of those were victories. That's a victory percentage of 66%
+1 of those matches were against the world #1, and they won 1 times. That's a win percentage of 100%
+1 of those matches were against the world #2, and they won 0 times. That's a win percentage of 0%
+4 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+4 of those matches were against the top 8, and they won 0 times. That's a win percentage of 0%
+4 of those matches were against top 16, and they won 1 times. That's a win percentage of 25%
+5 of those matches were against top 32, and they won 4 times. That's a win percentage of 80%
+9 of those matches were against top 64, and they won 6 times. That's a win percentage of 66%
+6 of those matches were against top 128, and they won 6 times. That's a win percentage of 100%
+4 of those matches were against top 256, and they won 4 times. That's a win percentage of 100%
+0 of those matches were against top 512
+AT AGE 25, VOLPI Alice fenced 46 senior matches.
+36 of those were victories. That's a victory percentage of 78%
+4 of those matches were against the world #1, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against the world #2.
+4 of those matches were against the top 4, and they won 0 times. That's a win percentage of 0%
+4 of those matches were against the top 8, and they won 6 times. That's a win percentage of 100%
+6 of those matches were against top 16, and they won 6 times. That's a win percentage of 100%
+12 of those matches were against top 32, and they won 9 times. That's a win percentage of 75%
+8 of those matches were against top 64, and they won 6 times. That's a win percentage of 75%
+4 of those matches were against top 128, and they won 4 times. That's a win percentage of 100%
+3 of those matches were against top 256, and they won 3 times. That's a win percentage of 100%
+2 of those matches were against top 512, and they won 2 times. That's a win percentage of 100%
+AT AGE 26, VOLPI Alice fenced 31 senior matches.
+23 of those were victories. That's a victory percentage of 74%
+0 of those matches were against the world #1.
+0 of those matches were against the world #2.
+5 of those matches were against the top 4, and they won 1 times. That's a win percentage of 20%
+5 of those matches were against the top 8, and they won 1 times. That's a win percentage of 33%
+2 of those matches were against top 16, and they won 1 times. That's a win percentage of 50%
+5 of those matches were against top 32, and they won 5 times. That's a win percentage of 100%
+11 of those matches were against top 64, and they won 6 times. That's a win percentage of 54%
+4 of those matches were against top 128, and they won 4 times. That's a win percentage of 100%
+5 of those matches were against top 256, and they won 5 times. That's a win percentage of 100%
+0 of those matches were against top 512
