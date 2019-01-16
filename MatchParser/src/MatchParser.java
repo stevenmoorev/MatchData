@@ -11,24 +11,31 @@ import java.net.MalformedURLException;
 import java.net.URL;
 import java.nio.charset.StandardCharsets;
 import java.sql.Date;
+import java.util.Calendar;
 
 public class MatchParser {
 	
 	public static void main(String args[]) throws IOException, ArithmeticException{
 		String[] urls = getURL();
+		String lastname = null;
 		
 		for(int i = 0; i<24 ; i++){
 			System.out.println(urls[i]);
-		}
+			String[] urlpage = urls[i].split("-");
+			urlpage[1] = lastname; 
+		
+			//this is gonna be the big loop
+			
+			
 		//change the file name
-		//String fileName = "http://fie.org/fencers/Alanna-GOLDIE-22533/";
+		//String fileName = "http://fie.org/fencers/Alanna-"+lastname+"-22533/";
 		URL url;
-		url = new URL("http://fie.org/fencers/Alanna-GOLDIE-22533/");
-		//String fileName = "Fencer - GOLDIE Alanna - CANADA - FIE - International Fencing Federation.html";
+		url = new URL("http://fie.org/fencers/" +urls[i]+ "/");
+		//String fileName = "Fencer - "+lastname+" Alanna - CANADA - FIE - International Fencing Federation.html";
 		//change the file name
-		PrintWriter pw = new PrintWriter(new File("MatchDataGOLDIE.csv"));
+		PrintWriter pw = new PrintWriter(new File("MatchData"+ lastname +".csv"));
 		//change the file name
-		PrintWriter pw2 = new PrintWriter(new File("PRTDataGOLDIE.txt"));
+		PrintWriter pw2 = new PrintWriter(new File("PRTData"+lastname+".txt"));
 		
 		String birthday = null, fencer = null;
 		int numVict = 0, numDef = 0, tstot = 0, trtot = 0;
@@ -205,11 +212,9 @@ public class MatchParser {
     			urlr = new URL("http://fie.org/results-statistic/ranking/pdf?category=" + category+  "&weapon=" + weapon+ "&gender=F&event=I&season=" + s+ "&federation=&name=");
     			InputStream isr = urlr.openStream();
     			try (BufferedReader bufr = new BufferedReader(new InputStreamReader(isr))){
-            	//http://fie.org/results-statistic/ranking/pdf?category=S&weapon=F&gender=F&event=I&season=2019&federation=&name=
-            		//try (BufferedReader bufr = new BufferedReader(new FileReader("src/"+weapon + "F" + category + season + ".txt"))) {
-    				String rank = null;	
+            	String rank = null;	
     				while ((line2 = bufr.readLine()) != null) {
-            				//System.out.println(line2);
+            				
             				
             				if(line2.contains("td class=") && line2.contains("col1")){
             					rank = line2.substring(20);
@@ -291,19 +296,31 @@ public class MatchParser {
             sb2.append("AGE: " + age);
             sb2.append('\n');
             
-           
+           String s = "2019";
             
-            String line2;
-            String season = "2018-2019";
-            int rank;
-            try (BufferedReader bufr = new BufferedReader(new FileReader("src/" + "F" + "F" + "S" + season + ".txt"))) {
-    			while ((line2 = bufr.readLine()) != null) {
-    				if(line2.contains(fencer)){
-    					String[] advInfo = line2.split("	");
-    					rank = Integer.parseInt(advInfo[0]);
-    				}
-    			}
-            }
+           String line2;
+            //for 2019 season
+            //gender F year 2019
+            URL urlr;
+            //int s = this.getYear();
+			urlr = new URL("http://fie.org/results-statistic/ranking/pdf?category=" + category+  "&weapon=" + weapon+ "&gender=F&event=I&season="+s+"&federation=&name=");
+			InputStream isr = urlr.openStream();
+			try (BufferedReader bufr = new BufferedReader(new InputStreamReader(isr))){
+        	String rank = null;	
+				while ((line2 = bufr.readLine()) != null) {
+        				
+        				
+        				if(line2.contains("td class=") && line2.contains("col1")){
+        					rank = line2.substring(20);
+        					rank = rank.substring(0,rank.length()-5);
+        				}
+        				if(line2.contains(opponent)){
+        					line2 = bufr.readLine();
+        					ranking = rank;
+        					country = line2.substring(20,23);
+        				}
+        			}	
+        		}
             //general statistics
             sb2.append("RANKING: " + ranking);
             sb2.append('\n');
@@ -323,10 +340,10 @@ public class MatchParser {
             sb2.append('\n');
            
             //For cadet matches
-            for(int i = agemin; i <= 16; i++){
+            for(int m = agemin; m <= 16; m++){
             	//change the file name
             	try (BufferedReader br2 = new BufferedReader(new InputStreamReader(
-                        new FileInputStream("MatchDataGOLDIE.csv"), StandardCharsets.UTF_8));) {
+                        new FileInputStream("MatchData"+lastname+".csv"), StandardCharsets.UTF_8));) {
                 line2 = br2.readLine();
                 int temp = 0, vict = 0, top5 = 0, vtop5 = 0, top16 = 0, vtop16 = 0, top32=0, vtop32 = 0, top64 = 0, vtop64 = 0, top100 = 0, vtop100 = 0, top200 = 0, vtop200 = 0, top500 = 0, vtop500 = 0;
                 while ((line2 = br2.readLine()) != null) {
@@ -334,57 +351,57 @@ public class MatchParser {
                 		line2 = br2.readLine();
                 	}
                 	String[] matchInfo = line2.split(";");
-                	if(Integer.parseInt(matchInfo[2]) == i && matchInfo[12].equals("C")){
+                	if(Integer.parseInt(matchInfo[2]) == m && matchInfo[12].equals("C")){
                 		temp++;
                 		if(matchInfo[3].equals("V")){
                 			vict++;
                 		}
                 	}
                 	//there was a problem here with matchInfo[8] when names had weird things like Pam's name (BRIND&#039)
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 5 && matchInfo[12].equals("C")){
+                	if(Integer.parseInt(matchInfo[2]) == m && Integer.parseInt(matchInfo[8]) <= 5 && matchInfo[12].equals("C")){
                 		top5++;
                 		if(matchInfo[3].equals("V")){
                 			vtop5++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 16 && Integer.parseInt(matchInfo[8]) > 5 && matchInfo[12].equals("C")){
+                	if(Integer.parseInt(matchInfo[2]) == m && Integer.parseInt(matchInfo[8]) <= 16 && Integer.parseInt(matchInfo[8]) > 5 && matchInfo[12].equals("C")){
                 		top16++;
                 		if(matchInfo[3].equals("V")){
                 			vtop16++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 32 && Integer.parseInt(matchInfo[8]) > 16 && matchInfo[12].equals("C")){
+                	if(Integer.parseInt(matchInfo[2]) == m && Integer.parseInt(matchInfo[8]) <= 32 && Integer.parseInt(matchInfo[8]) > 16 && matchInfo[12].equals("C")){
                 		top32++;
                 		if(matchInfo[3].equals("V")){
                 			vtop32++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 64 && Integer.parseInt(matchInfo[8]) > 32 && matchInfo[12].equals("C")){
+                	if(Integer.parseInt(matchInfo[2]) == m && Integer.parseInt(matchInfo[8]) <= 64 && Integer.parseInt(matchInfo[8]) > 32 && matchInfo[12].equals("C")){
                 		top64++;
                 		if(matchInfo[3].equals("V")){
                 			vtop64++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 100 && Integer.parseInt(matchInfo[8]) > 64 && matchInfo[12].equals("C")){
+                	if(Integer.parseInt(matchInfo[2]) == m && Integer.parseInt(matchInfo[8]) <= 100 && Integer.parseInt(matchInfo[8]) > 64 && matchInfo[12].equals("C")){
                 		top100++;
                 		if(matchInfo[3].equals("V")){
                 			vtop100++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 200 && Integer.parseInt(matchInfo[8]) > 100 && matchInfo[12].equals("C")){
+                	if(Integer.parseInt(matchInfo[2]) == m && Integer.parseInt(matchInfo[8]) <= 200 && Integer.parseInt(matchInfo[8]) > 100 && matchInfo[12].equals("C")){
                 		top200++;
                 		if(matchInfo[3].equals("V")){
                 			vtop200++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 500 && Integer.parseInt(matchInfo[8]) > 100 && matchInfo[12].equals("C")){
+                	if(Integer.parseInt(matchInfo[2]) == m && Integer.parseInt(matchInfo[8]) <= 500 && Integer.parseInt(matchInfo[8]) > 100 && matchInfo[12].equals("C")){
                 		top500++;
                 		if(matchInfo[3].equals("V")){
                 			vtop500++;
                 		}
                 	}
                 }
-                sb2.append("AT AGE " + i + ", " + fencer + " fenced " + temp +  " cadet matches.");
+                sb2.append("AT AGE " + m + ", " + fencer + " fenced " + temp +  " cadet matches.");
                 sb2.append('\n');
             	try
             	{	
@@ -451,10 +468,10 @@ public class MatchParser {
             	
             
             //for junior matches
-            for(int i = agemin; i <= 20; i++){
+            for(int k = agemin; k <= 20; i++){
             	//change the file name
             	try (BufferedReader br2 = new BufferedReader(new InputStreamReader(
-                        new FileInputStream("MatchDataGOLDIE.csv"), StandardCharsets.UTF_8));) {
+                        new FileInputStream("MatchData"+lastname+".csv"), StandardCharsets.UTF_8));) {
                 line2 = br2.readLine();
                 int temp = 0, vict = 0, top5 = 0, vtop5 = 0, top16 = 0, vtop16 = 0, top32=0, vtop32 = 0, top64 = 0, vtop64 = 0, top100 = 0, vtop100 = 0, top200 = 0, vtop200 = 0, top500 = 0, vtop500 = 0;
                 while ((line2 = br2.readLine()) != null) {
@@ -463,50 +480,50 @@ public class MatchParser {
                 		line2 = br2.readLine();
                 	}
                 	String[] matchInfo = line2.split(";");
-                	if(Integer.parseInt(matchInfo[2]) == i && matchInfo[12].equals("J")){
+                	if(Integer.parseInt(matchInfo[2]) == k && matchInfo[12].equals("J")){
                 		temp++;
                 		if(matchInfo[3].equals("V")){
                 			vict++;
                 		}
                 	}
                 	
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 5 && matchInfo[12].equals("J")){
+                	if(Integer.parseInt(matchInfo[2]) == k && Integer.parseInt(matchInfo[8]) <= 5 && matchInfo[12].equals("J")){
                 		top5++;
                 		if(matchInfo[3].equals("V")){
                 			vtop5++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 16 && Integer.parseInt(matchInfo[8]) > 5 && matchInfo[12].equals("J")){
+                	if(Integer.parseInt(matchInfo[2]) == k && Integer.parseInt(matchInfo[8]) <= 16 && Integer.parseInt(matchInfo[8]) > 5 && matchInfo[12].equals("J")){
                 		top16++;
                 		if(matchInfo[3].equals("V")){
                 			vtop16++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 32 && Integer.parseInt(matchInfo[8]) > 16 && matchInfo[12].equals("J")){
+                	if(Integer.parseInt(matchInfo[2]) == k && Integer.parseInt(matchInfo[8]) <= 32 && Integer.parseInt(matchInfo[8]) > 16 && matchInfo[12].equals("J")){
                 		top32++;
                 		if(matchInfo[3].equals("V")){
                 			vtop32++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 64 && Integer.parseInt(matchInfo[8]) > 32 && matchInfo[12].equals("J")){
+                	if(Integer.parseInt(matchInfo[2]) == k && Integer.parseInt(matchInfo[8]) <= 64 && Integer.parseInt(matchInfo[8]) > 32 && matchInfo[12].equals("J")){
                 		top64++;
                 		if(matchInfo[3].equals("V")){
                 			vtop64++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 100 && Integer.parseInt(matchInfo[8]) > 64 && matchInfo[12].equals("J")){
+                	if(Integer.parseInt(matchInfo[2]) == k && Integer.parseInt(matchInfo[8]) <= 100 && Integer.parseInt(matchInfo[8]) > 64 && matchInfo[12].equals("J")){
                 		top100++;
                 		if(matchInfo[3].equals("V")){
                 			vtop100++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 200 && Integer.parseInt(matchInfo[8]) > 100 && matchInfo[12].equals("J")){
+                	if(Integer.parseInt(matchInfo[2]) == k && Integer.parseInt(matchInfo[8]) <= 200 && Integer.parseInt(matchInfo[8]) > 100 && matchInfo[12].equals("J")){
                 		top200++;
                 		if(matchInfo[3].equals("V")){
                 			vtop200++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 500 && Integer.parseInt(matchInfo[8]) > 100 && matchInfo[12].equals("J")){
+                	if(Integer.parseInt(matchInfo[2]) == k && Integer.parseInt(matchInfo[8]) <= 500 && Integer.parseInt(matchInfo[8]) > 100 && matchInfo[12].equals("J")){
                 		top500++;
                 		if(matchInfo[3].equals("V")){
                 			vtop500++;
@@ -514,7 +531,7 @@ public class MatchParser {
                 	}
                 }
             	
-                sb2.append("AT AGE " + i + ", " + fencer + " fenced " + temp +  " junior matches.");
+                sb2.append("AT AGE " + k + ", " + fencer + " fenced " + temp +  " junior matches.");
                 sb2.append('\n');
             	try
             	{	
@@ -581,10 +598,10 @@ public class MatchParser {
         }
             
             //for senior matches
-            for(int i = agemin; i <= agemax; i++){
+            for(int q = agemin; q <= agemax; q++){
             	//change the name
             	try (BufferedReader br2 = new BufferedReader(new InputStreamReader(
-                        new FileInputStream("MatchDataGOLDIE.csv"), StandardCharsets.UTF_8));) {
+                        new FileInputStream("MatchData"+lastname+".csv"), StandardCharsets.UTF_8));) {
                 line2 = br2.readLine();
                 int temp = 0, vict = 0, top5 = 0, vtop5 = 0, top16 = 0, vtop16 = 0, top32=0, vtop32 = 0, top64 = 0, vtop64 = 0, top100 = 0, vtop100 = 0, top200 = 0, vtop200 = 0, top500 = 0, vtop500 = 0;
                 while ((line2 = br2.readLine()) != null) {
@@ -593,49 +610,49 @@ public class MatchParser {
                 	}
                 	String[] matchInfo = line2.split(";");
                 	//System.out.println(matchInfo[1]);
-                	if(Integer.parseInt(matchInfo[2]) == i && matchInfo[12].equals("S")){
+                	if(Integer.parseInt(matchInfo[2]) == q && matchInfo[12].equals("S")){
                 		temp++;
                 		if(matchInfo[3].equals("V")){
                 			vict++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 5 && matchInfo[12].equals("S")){
+                	if(Integer.parseInt(matchInfo[2]) == q && Integer.parseInt(matchInfo[8]) <= 5 && matchInfo[12].equals("S")){
                 		top5++;
                 		if(matchInfo[3].equals("V")){
                 			vtop5++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 16 && Integer.parseInt(matchInfo[8]) > 5 && matchInfo[12].equals("S")){
+                	if(Integer.parseInt(matchInfo[2]) == q && Integer.parseInt(matchInfo[8]) <= 16 && Integer.parseInt(matchInfo[8]) > 5 && matchInfo[12].equals("S")){
                 		top16++;
                 		if(matchInfo[3].equals("V")){
                 			vtop16++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 32 && Integer.parseInt(matchInfo[8]) > 16 && matchInfo[12].equals("S")){
+                	if(Integer.parseInt(matchInfo[2]) == q && Integer.parseInt(matchInfo[8]) <= 32 && Integer.parseInt(matchInfo[8]) > 16 && matchInfo[12].equals("S")){
                 		top32++;
                 		if(matchInfo[3].equals("V")){
                 			vtop32++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 64 && Integer.parseInt(matchInfo[8]) > 32 && matchInfo[12].equals("S")){
+                	if(Integer.parseInt(matchInfo[2]) == q && Integer.parseInt(matchInfo[8]) <= 64 && Integer.parseInt(matchInfo[8]) > 32 && matchInfo[12].equals("S")){
                 		top64++;
                 		if(matchInfo[3].equals("V")){
                 			vtop64++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 100 && Integer.parseInt(matchInfo[8]) > 64 && matchInfo[12].equals("S")){
+                	if(Integer.parseInt(matchInfo[2]) == q && Integer.parseInt(matchInfo[8]) <= 100 && Integer.parseInt(matchInfo[8]) > 64 && matchInfo[12].equals("S")){
                 		top100++;
                 		if(matchInfo[3].equals("V")){
                 			vtop100++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 200 && Integer.parseInt(matchInfo[8]) > 100 && matchInfo[12].equals("S")){
+                	if(Integer.parseInt(matchInfo[2]) == q && Integer.parseInt(matchInfo[8]) <= 200 && Integer.parseInt(matchInfo[8]) > 100 && matchInfo[12].equals("S")){
                 		top200++;
                 		if(matchInfo[3].equals("V")){
                 			vtop200++;
                 		}
                 	}
-                	if(Integer.parseInt(matchInfo[2]) == i && Integer.parseInt(matchInfo[8]) <= 500 && Integer.parseInt(matchInfo[8]) > 100 && matchInfo[12].equals("S")){
+                	if(Integer.parseInt(matchInfo[2]) == q && Integer.parseInt(matchInfo[8]) <= 500 && Integer.parseInt(matchInfo[8]) > 100 && matchInfo[12].equals("S")){
                 		top500++;
                 		if(matchInfo[3].equals("V")){
                 			vtop500++;
@@ -643,7 +660,7 @@ public class MatchParser {
                 	}
                 }
             	
-                sb2.append("AT AGE " + i + ", " + fencer + " fenced " + temp +  " senior matches.");
+                sb2.append("AT AGE " + q + ", " + fencer + " fenced " + temp +  " senior matches.");
                 sb2.append('\n');  
                 try
             	{	
@@ -712,7 +729,8 @@ public class MatchParser {
             pw2.close();
             System.out.println("done!");
            
-
+        	//end of for loop
+    	}
         }
 	}
 
@@ -736,7 +754,7 @@ public class MatchParser {
 			}
 		}
 		return urls;
-		
-		
+	
+	
 	}
 }
