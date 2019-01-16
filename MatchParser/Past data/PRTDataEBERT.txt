@@ -1,0 +1,146 @@
+----- STATISTICS -----
+FENCER NAME: EBERT Leonie
+DATE OF BIRTH: 1999-10-04
+AGE: 19
+RANKING: 6
+NUMBER OF VICTORIES: 411
+PERCENTAGE OF VICTORIES: 70%
+NUMBER OF TOUCHES SCORED: 4190
+NUMBER OF TOUCHES RECEIVED: 2968
+FIRST RESULT FROM AGE: 14
+----- PRT STATISTICS -----
+AT AGE 14, EBERT Leonie fenced 8 cadet matches.
+4 of those were victories. That's a victory percentage of 50%
+8 of those matches were against top 5, and they won 4 times. That's a win percentage of 50%
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 100.
+A0 of those matches were against top 200.
+0 of those matches were against top 500
+AT AGE 15, EBERT Leonie fenced 11 cadet matches.
+10 of those were victories. That's a victory percentage of 90%
+10 of those matches were against top 5, and they won 9 times. That's a win percentage of 90%
+0 of those matches were against top 16.
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+0 of those matches were against top 100.
+A0 of those matches were against top 200.
+1 of those matches were against top 500, and they won 1 times. That's a win percentage of 100%
+AT AGE 16, EBERT Leonie fenced 10 cadet matches.
+8 of those were victories. That's a victory percentage of 80%
+1 of those matches were against top 5, and they won 0 times. That's a win percentage of 0%
+1 of those matches were against top 16, and they won 1 times. That's a win percentage of 100%
+3 of those matches were against top 32, and they won 3 times. That's a win percentage of 100%
+3 of those matches were against top 64, and they won 2 times. That's a win percentage of 66%
+2 of those matches were against top 100, and they won 2 times. That's a win percentage of 100%
+A0 of those matches were against top 200.
+0 of those matches were against top 500
+AT AGE 14, EBERT Leonie fenced 47 junior matches.
+27 of those were victories. That's a victory percentage of 57%
+3 of those matches were against top 5, and they won 0 times. That's a win percentage of 0%
+7 of those matches were against top 16, and they won 3 times. That's a win percentage of 42%
+2 of those matches were against top 32, and they won 1 times. That's a win percentage of 50%
+10 of those matches were against top 64, and they won 3 times. That's a win percentage of 30%
+3 of those matches were against top 100, and they won 3 times. That's a win percentage of 100%
+8 of those matches were against top 200, and they won 4 times. That's a win percentage of 50%
+22 of those matches were against top 500, and they won 17 times. That's a win percentage of 77%
+AT AGE 15, EBERT Leonie fenced 53 junior matches.
+38 of those were victories. That's a victory percentage of 71%
+5 of those matches were against top 5, and they won 3 times. That's a win percentage of 60%
+6 of those matches were against top 16, and they won 4 times. That's a win percentage of 66%
+5 of those matches were against top 32, and they won 2 times. That's a win percentage of 40%
+5 of those matches were against top 64, and they won 4 times. That's a win percentage of 80%
+7 of those matches were against top 100, and they won 4 times. That's a win percentage of 57%
+15 of those matches were against top 200, and they won 12 times. That's a win percentage of 80%
+25 of those matches were against top 500, and they won 21 times. That's a win percentage of 84%
+AT AGE 16, EBERT Leonie fenced 57 junior matches.
+46 of those were victories. That's a victory percentage of 80%
+4 of those matches were against top 5, and they won 1 times. That's a win percentage of 25%
+3 of those matches were against top 16, and they won 2 times. That's a win percentage of 66%
+7 of those matches were against top 32, and they won 5 times. That's a win percentage of 71%
+8 of those matches were against top 64, and they won 7 times. That's a win percentage of 87%
+8 of those matches were against top 100, and they won 6 times. That's a win percentage of 75%
+13 of those matches were against top 200, and they won 13 times. That's a win percentage of 100%
+27 of those matches were against top 500, and they won 25 times. That's a win percentage of 92%
+AT AGE 17, EBERT Leonie fenced 69 junior matches.
+61 of those were victories. That's a victory percentage of 88%
+5 of those matches were against top 5, and they won 4 times. That's a win percentage of 80%
+4 of those matches were against top 16, and they won 2 times. That's a win percentage of 50%
+7 of those matches were against top 32, and they won 5 times. That's a win percentage of 71%
+10 of those matches were against top 64, and they won 10 times. That's a win percentage of 100%
+13 of those matches were against top 100, and they won 12 times. That's a win percentage of 92%
+17 of those matches were against top 200, and they won 15 times. That's a win percentage of 88%
+30 of those matches were against top 500, and they won 28 times. That's a win percentage of 93%
+AT AGE 18, EBERT Leonie fenced 61 junior matches.
+53 of those were victories. That's a victory percentage of 86%
+6 of those matches were against top 5, and they won 1 times. That's a win percentage of 16%
+6 of those matches were against top 16, and they won 5 times. That's a win percentage of 83%
+4 of those matches were against top 32, and they won 4 times. That's a win percentage of 100%
+6 of those matches were against top 64, and they won 5 times. That's a win percentage of 83%
+11 of those matches were against top 100, and they won 11 times. That's a win percentage of 100%
+15 of those matches were against top 200, and they won 14 times. That's a win percentage of 93%
+28 of those matches were against top 500, and they won 27 times. That's a win percentage of 96%
+AT AGE 19, EBERT Leonie fenced 9 junior matches.
+7 of those were victories. That's a victory percentage of 77%
+0 of those matches were against top 5.
+1 of those matches were against top 16, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against top 32.
+0 of those matches were against top 64.
+1 of those matches were against top 100, and they won 0 times. That's a win percentage of 0%
+4 of those matches were against top 200, and they won 4 times. That's a win percentage of 100%
+7 of those matches were against top 500, and they won 7 times. That's a win percentage of 100%
+AT AGE 14, EBERT Leonie fenced 20 senior matches.
+7 of those were victories. That's a victory percentage of 35%
+0 of those matches were against top 5.
+0 of those matches were against top 16.
+4 of those matches were against top 32, and they won 1 times. That's a win percentage of 25%
+3 of those matches were against top 64, and they won 1 times. That's a win percentage of 33%
+1 of those matches were against top 100, and they won 1 times. That's a win percentage of 100%
+8 of those matches were against top 200, and they won 4 times. That's a win percentage of 50%
+12 of those matches were against top 500, and they won 4 times. That's a win percentage of 33%
+AT AGE 15, EBERT Leonie fenced 31 senior matches.
+9 of those were victories. That's a victory percentage of 29%
+0 of those matches were against top 5.
+0 of those matches were against top 16.
+8 of those matches were against top 32, and they won 1 times. That's a win percentage of 12%
+6 of those matches were against top 64, and they won 1 times. That's a win percentage of 16%
+5 of those matches were against top 100, and they won 2 times. That's a win percentage of 40%
+6 of those matches were against top 200, and they won 2 times. That's a win percentage of 33%
+12 of those matches were against top 500, and they won 5 times. That's a win percentage of 41%
+AT AGE 16, EBERT Leonie fenced 50 senior matches.
+26 of those were victories. That's a victory percentage of 52%
+0 of those matches were against top 5.
+3 of those matches were against top 16, and they won 0 times. That's a win percentage of 0%
+5 of those matches were against top 32, and they won 2 times. That's a win percentage of 40%
+14 of those matches were against top 64, and they won 7 times. That's a win percentage of 50%
+4 of those matches were against top 100, and they won 3 times. That's a win percentage of 75%
+10 of those matches were against top 200, and they won 6 times. That's a win percentage of 60%
+24 of those matches were against top 500, and they won 14 times. That's a win percentage of 58%
+AT AGE 17, EBERT Leonie fenced 77 senior matches.
+53 of those were victories. That's a victory percentage of 68%
+3 of those matches were against top 5, and they won 1 times. That's a win percentage of 33%
+4 of those matches were against top 16, and they won 2 times. That's a win percentage of 50%
+7 of those matches were against top 32, and they won 5 times. That's a win percentage of 71%
+16 of those matches were against top 64, and they won 8 times. That's a win percentage of 50%
+13 of those matches were against top 100, and they won 8 times. That's a win percentage of 61%
+13 of those matches were against top 200, and they won 8 times. That's a win percentage of 61%
+34 of those matches were against top 500, and they won 29 times. That's a win percentage of 85%
+AT AGE 18, EBERT Leonie fenced 71 senior matches.
+57 of those were victories. That's a victory percentage of 80%
+4 of those matches were against top 5, and they won 1 times. That's a win percentage of 25%
+3 of those matches were against top 16, and they won 1 times. That's a win percentage of 33%
+12 of those matches were against top 32, and they won 10 times. That's a win percentage of 83%
+11 of those matches were against top 64, and they won 7 times. That's a win percentage of 63%
+12 of those matches were against top 100, and they won 10 times. That's a win percentage of 83%
+13 of those matches were against top 200, and they won 12 times. That's a win percentage of 92%
+29 of those matches were against top 500, and they won 28 times. That's a win percentage of 96%
+AT AGE 19, EBERT Leonie fenced 8 senior matches.
+5 of those were victories. That's a victory percentage of 62%
+3 of those matches were against top 5, and they won 1 times. That's a win percentage of 33%
+1 of those matches were against top 16, and they won 1 times. That's a win percentage of 100%
+1 of those matches were against top 32, and they won 1 times. That's a win percentage of 100%
+1 of those matches were against top 64, and they won 0 times. That's a win percentage of 0%
+0 of those matches were against top 100.
+2 of those matches were against top 200, and they won 2 times. That's a win percentage of 100%
+2 of those matches were against top 500, and they won 2 times. That's a win percentage of 100%
